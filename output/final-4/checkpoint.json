@@ -1,0 +1,11 @@
+{
+  "round": "final-4",
+  "total_games": 2,
+  "completed_games": 2,
+  "status": "complete",
+  "games": [
+    { "game_number": 1, "matchup": "Duke vs Houston", "status": "complete", "winner": "Duke" },
+    { "game_number": 2, "matchup": "Arizona vs Michigan", "status": "complete", "winner": "Arizona" }
+  ],
+  "next_matchup": null
+}

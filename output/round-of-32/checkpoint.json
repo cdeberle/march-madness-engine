@@ -1,0 +1,24 @@
+{
+  "round": "round-of-32",
+  "total_games": 16,
+  "completed_games": 16,
+  "status": "COMPLETE",
+  "games": [
+    { "game": 1, "region": "East", "teams": "Duke (1) vs Ohio State (8)", "status": "complete", "winner": "Duke", "confidence_pct": 84 },
+    { "game": 2, "region": "East", "teams": "St. John's (5) vs Kansas (4)", "status": "complete", "winner": "St. John's", "confidence_pct": 60, "upset": true },
+    { "game": 3, "region": "East", "teams": "South Florida (11) vs Michigan State (3)", "status": "complete", "winner": "Michigan State", "confidence_pct": 71 },
+    { "game": 4, "region": "East", "teams": "UCLA (7) vs UConn (2)", "status": "complete", "winner": "UConn", "confidence_pct": 68 },
+    { "game": 5, "region": "South", "teams": "Florida (1) vs Iowa (9)", "status": "complete", "winner": "Florida", "confidence_pct": 83 },
+    { "game": 6, "region": "South", "teams": "Vanderbilt (5) vs Nebraska (4)", "status": "complete", "winner": "Vanderbilt", "confidence_pct": 59, "upset": true },
+    { "game": 7, "region": "South", "teams": "North Carolina (6) vs Illinois (3)", "status": "complete", "winner": "Illinois", "confidence_pct": 76 },
+    { "game": 8, "region": "South", "teams": "Saint Mary's (7) vs Houston (2)", "status": "complete", "winner": "Houston", "confidence_pct": 71 },
+    { "game": 9, "region": "West", "teams": "Arizona (1) vs Utah State (9)", "status": "complete", "winner": "Arizona", "confidence_pct": 79 },
+    { "game": 10, "region": "West", "teams": "Wisconsin (5) vs Arkansas (4)", "status": "complete", "winner": "Arkansas", "confidence_pct": 57 },
+    { "game": 11, "region": "West", "teams": "BYU (6) vs Gonzaga (3)", "status": "complete", "winner": "Gonzaga", "confidence_pct": 66 },
+    { "game": 12, "region": "West", "teams": "Miami (7) vs Purdue (2)", "status": "complete", "winner": "Purdue", "confidence_pct": 69 },
+    { "game": 13, "region": "Midwest", "teams": "Michigan (1) vs Saint Louis (9)", "status": "complete", "winner": "Michigan", "confidence_pct": 81 },
+    { "game": 14, "region": "Midwest", "teams": "Akron (12) vs Alabama (4)", "status": "complete", "winner": "Akron", "confidence_pct": 56, "upset": true },
+    { "game": 15, "region": "Midwest", "teams": "Tennessee (6) vs Virginia (3)", "status": "complete", "winner": "Virginia", "confidence_pct": 61 },
+    { "game": 16, "region": "Midwest", "teams": "Kentucky (7) vs Iowa State (2)", "status": "complete", "winner": "Iowa State", "confidence_pct": 81 }
+  ]
+}

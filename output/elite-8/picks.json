@@ -1,0 +1,74 @@
+{
+  "round": "elite-8",
+  "date_generated": "2026-03-18",
+  "matchups": [
+    {
+      "game_number": 1,
+      "region": "East",
+      "team_a": { "name": "Duke", "seed": 1 },
+      "team_b": { "name": "UConn", "seed": 2 },
+      "winner": "Duke",
+      "confidence_pct": 64,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Duke's efficiency margin (~10.7 AdjEM, 6.2 BPI) crosses the high-confidence threshold. Moderated by Ngongba's uncertain availability and Hurley's coaching pedigree.",
+      "agent_picks": {
+        "statistical": { "pick": "Duke", "confidence_pct": 72 },
+        "matchup": { "pick": "Duke", "confidence_pct": 67 },
+        "recency": { "pick": "Duke", "confidence_pct": 58 },
+        "historical": { "pick": "Duke", "confidence_pct": 57 }
+      }
+    },
+    {
+      "game_number": 2,
+      "region": "South",
+      "team_a": { "name": "Florida", "seed": 1 },
+      "team_b": { "name": "Houston", "seed": 2 },
+      "winner": "Houston",
+      "confidence_pct": 57,
+      "consensus_type": "split",
+      "upset": true,
+      "deciding_factor": "Data agents split (Statistical 54% Houston, Matchup 61% Florida). Statistical below 56% threshold — tiebreaker void. Agents 2-2. Situational tiebreaker: Houston plays at Toyota Center (<3 miles from campus), effectively a home game. Expert consensus weighted venue as decisive.",
+      "agent_picks": {
+        "statistical": { "pick": "Houston", "confidence_pct": 54 },
+        "matchup": { "pick": "Florida", "confidence_pct": 61 },
+        "recency": { "pick": "Houston", "confidence_pct": 57 },
+        "historical": { "pick": "Florida", "confidence_pct": 57 }
+      }
+    },
+    {
+      "game_number": 3,
+      "region": "West",
+      "team_a": { "name": "Arizona", "seed": 1 },
+      "team_b": { "name": "Purdue", "seed": 2 },
+      "winner": "Arizona",
+      "confidence_pct": 66,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Arizona's defensive efficiency gap (DRtg +11.0) and paint dominance (46.4 PPG in paint vs Purdue's 342nd rim defense) create a structural mismatch. Purdue's 6-7 finish in last 13 and Jacobsen season-ending injury compound interior vulnerability.",
+      "agent_picks": {
+        "statistical": { "pick": "Arizona", "confidence_pct": 72 },
+        "matchup": { "pick": "Arizona", "confidence_pct": 72 },
+        "recency": { "pick": "Arizona", "confidence_pct": 62 },
+        "historical": { "pick": "Arizona", "confidence_pct": 57 }
+      }
+    },
+    {
+      "game_number": 4,
+      "region": "Midwest",
+      "team_a": { "name": "Michigan", "seed": 1 },
+      "team_b": { "name": "Iowa State", "seed": 2 },
+      "winner": "Michigan",
+      "confidence_pct": 62,
+      "consensus_type": "majority",
+      "upset": false,
+      "deciding_factor": "Michigan's defensive superiority (DRtg gap ~4.0, #1 nationally) and size advantage (three-big rotation including 7'3\" Mara) structurally neutralize Iowa State's pressure defense and perimeter-dependent offense. All five major metrics consistently favor Michigan.",
+      "agent_picks": {
+        "statistical": { "pick": "Michigan", "confidence_pct": 65 },
+        "matchup": { "pick": "Michigan", "confidence_pct": 62 },
+        "recency": { "pick": "Michigan", "confidence_pct": 62 },
+        "historical": { "pick": "Iowa State", "confidence_pct": 57 }
+      }
+    }
+  ]
+}

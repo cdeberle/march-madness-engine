@@ -1,0 +1,550 @@
+{
+  "round": "round-of-64",
+  "date_generated": "2026-03-18",
+  "matchups": [
+    {
+      "game_number": 1,
+      "region": "East",
+      "team_a": { "name": "Duke", "seed": 1 },
+      "team_b": { "name": "Siena", "seed": 16 },
+      "winner": "Duke",
+      "confidence_pct": 96,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Historic efficiency gap (41+ point AdjEM differential) against the weakest team in the field by SOS (347th nationally). ESPN BPI 99% win probability. Foster OUT but Duke won ACC Tournament without him.",
+      "agent_picks": {
+        "statistical": { "pick": "Duke", "confidence_pct": 97 },
+        "matchup": { "pick": "Duke", "confidence_pct": 97 },
+        "recency": { "pick": "Duke", "confidence_pct": 92 },
+        "historical": { "pick": "Duke", "confidence_pct": 96 }
+      }
+    },
+    {
+      "game_number": 2,
+      "region": "East",
+      "team_a": { "name": "Ohio State", "seed": 8 },
+      "team_b": { "name": "TCU", "seed": 9 },
+      "winner": "Ohio State",
+      "confidence_pct": 61,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Ohio State's superior offensive efficiency (ORtg 118.6 vs 111.1) and BPI edge (14.2 vs 12.0), anchored by Bruce Thornton (20.2 PPG, 55.8% FG). Near toss-up but OSU has the best player on the floor.",
+      "agent_picks": {
+        "statistical": { "pick": "Ohio State", "confidence_pct": 62 },
+        "matchup": { "pick": "Ohio State", "confidence_pct": 62 },
+        "recency": { "pick": "Ohio State", "confidence_pct": 62 },
+        "historical": { "pick": "Ohio State", "confidence_pct": 58 }
+      }
+    },
+    {
+      "game_number": 3,
+      "region": "East",
+      "team_a": { "name": "St. John's", "seed": 5 },
+      "team_b": { "name": "Northern Iowa", "seed": 12 },
+      "winner": "St. John's",
+      "confidence_pct": 71,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "St. John's BPI #16 with 28-6 record and 18-2 Big East. Pitino 55-22 in NCAA play. UNI's #1 scoring defense (61.3 PPG) makes this a live upset spot, but SJU's rebounding and turnover-forcing ability mitigate the threat.",
+      "agent_picks": {
+        "statistical": { "pick": "St. John's", "confidence_pct": 76 },
+        "matchup": { "pick": "St. John's", "confidence_pct": 68 },
+        "recency": { "pick": "St. John's", "confidence_pct": 72 },
+        "historical": { "pick": "St. John's", "confidence_pct": 68 }
+      }
+    },
+    {
+      "game_number": 4,
+      "region": "East",
+      "team_a": { "name": "Kansas", "seed": 4 },
+      "team_b": { "name": "CA Baptist", "seed": 13 },
+      "winner": "Kansas",
+      "confidence_pct": 79,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Kansas SOS #1 nationally, BPI #21, Self's 22 tournament appearances. CBU's DRtg (#32) and Daniels (23.2 PPG) give upset tools but 4-vs-13 history (79.4% for 4-seeds) and CBU's first-ever D1 tournament appearance limit threat.",
+      "agent_picks": {
+        "statistical": { "pick": "Kansas", "confidence_pct": 84 },
+        "matchup": { "pick": "Kansas", "confidence_pct": 78 },
+        "recency": { "pick": "Kansas", "confidence_pct": 79 },
+        "historical": { "pick": "Kansas", "confidence_pct": 76 }
+      }
+    },
+    {
+      "game_number": 5,
+      "region": "East",
+      "team_a": { "name": "Louisville", "seed": 6 },
+      "team_b": { "name": "South Florida", "seed": 11 },
+      "winner": "South Florida",
+      "confidence_pct": 58,
+      "consensus_type": "recency_override",
+      "upset": true,
+      "deciding_factor": "Mikel Brown Jr. (18.2 PPG, 4.7 APG) confirmed OUT with back injury. Louisville 7-5 without him. USF on 11-game win streak, double conference champs, elite defense (Nelson AAC POY+DPOY, 14.4 forced TOV/game).",
+      "agent_picks": {
+        "statistical": { "pick": "Louisville", "confidence_pct": 68 },
+        "matchup": { "pick": "South Florida", "confidence_pct": 57 },
+        "recency": { "pick": "South Florida", "confidence_pct": 62 },
+        "historical": { "pick": "Louisville", "confidence_pct": 58 }
+      }
+    },
+    {
+      "game_number": 6,
+      "region": "East",
+      "team_a": { "name": "Michigan State", "seed": 3 },
+      "team_b": { "name": "North Dakota State", "seed": 14 },
+      "winner": "Michigan State",
+      "confidence_pct": 83,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "BPI 94.2% win probability (+17.5 margin). Izzo's 59 tournament wins. NDSU SOS 282nd with zero top-115 opponents. MSU's rebounding dominance (#3 nationally) and Big Ten schedule gap too wide despite NDSU's 3PT threat.",
+      "agent_picks": {
+        "statistical": { "pick": "Michigan State", "confidence_pct": 88 },
+        "matchup": { "pick": "Michigan State", "confidence_pct": 82 },
+        "recency": { "pick": "Michigan State", "confidence_pct": 76 },
+        "historical": { "pick": "Michigan State", "confidence_pct": 84 }
+      }
+    },
+    {
+      "game_number": 7,
+      "region": "East",
+      "team_a": { "name": "UCLA", "seed": 7 },
+      "team_b": { "name": "UCF", "seed": 10 },
+      "winner": "UCLA",
+      "confidence_pct": 65,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "UCLA's elite 3PT differential (37.7% shooting, 31.3% allowed) counters UCF's perimeter-dependent offense. BPI 72.2% win prob. UCF's 3PT shooting collapsed in Big 12 Tournament (6-of-45). Bilodeau and Dent expected available.",
+      "agent_picks": {
+        "statistical": { "pick": "UCLA", "confidence_pct": 71 },
+        "matchup": { "pick": "UCLA", "confidence_pct": 65 },
+        "recency": { "pick": "UCLA", "confidence_pct": 62 },
+        "historical": { "pick": "UCLA", "confidence_pct": 62 }
+      }
+    },
+    {
+      "game_number": 8,
+      "region": "East",
+      "team_a": { "name": "UConn", "seed": 2 },
+      "team_b": { "name": "Furman", "seed": 15 },
+      "winner": "UConn",
+      "confidence_pct": 92,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "BPI 96.4% win probability (+20.5). UConn 29-5, back-to-back champs in '23-'24, defense holds opponents to 65.1 PPG and 30.3% from 3. Furman's SoCon schedule (SOS ~153) doesn't prepare for UConn's elite D. Demary (ankle) trending available.",
+      "agent_picks": {
+        "statistical": { "pick": "UConn", "confidence_pct": 95 },
+        "matchup": { "pick": "UConn", "confidence_pct": 88 },
+        "recency": { "pick": "UConn", "confidence_pct": 93 },
+        "historical": { "pick": "UConn", "confidence_pct": 93 }
+      }
+    },
+    {
+      "game_number": 9,
+      "region": "South",
+      "team_a": { "name": "Florida", "seed": 1 },
+      "team_b": { "name": "Prairie View", "seed": 16 },
+      "winner": "Florida",
+      "confidence_pct": 97,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Defending national champs, 26-7 (16-2 SEC). Nation-leading 45.4 RPG, +15.3 rebound margin. No injuries. Prairie View (First Four winner) sub-.500 with play-in fatigue. 1-seeds 158-2 all-time.",
+      "agent_picks": {
+        "statistical": { "pick": "Florida", "confidence_pct": 97 },
+        "matchup": { "pick": "Florida", "confidence_pct": 97 },
+        "recency": { "pick": "Florida", "confidence_pct": 97 },
+        "historical": { "pick": "Florida", "confidence_pct": 97 }
+      }
+    },
+    {
+      "game_number": 10,
+      "region": "South",
+      "team_a": { "name": "Clemson", "seed": 8 },
+      "team_b": { "name": "Iowa", "seed": 9 },
+      "winner": "Iowa",
+      "confidence_pct": 56,
+      "consensus_type": "unanimous",
+      "upset": true,
+      "deciding_factor": "Stirtz (20.2 PPG) is best player on floor. Iowa ORtg 118.2 vs Clemson 112.4. Clemson lost Welling + Foster (both ACL). BPI near coin-flip (50.6% Clemson) but Iowa's offensive efficiency and healthy roster edge it.",
+      "agent_picks": {
+        "statistical": { "pick": "Iowa", "confidence_pct": 54 },
+        "matchup": { "pick": "Iowa", "confidence_pct": 58 },
+        "recency": { "pick": "Iowa", "confidence_pct": 56 },
+        "historical": { "pick": "Iowa", "confidence_pct": 54 }
+      }
+    },
+    {
+      "game_number": 11,
+      "region": "South",
+      "team_a": { "name": "Vanderbilt", "seed": 5 },
+      "team_b": { "name": "McNeese", "seed": 12 },
+      "winner": "Vanderbilt",
+      "confidence_pct": 68,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Vanderbilt's elite defense (top-14 DRtg, best block% in D-I) and SEC schedule strength vs McNeese's Southland schedule. BPI 81.2% win prob. McNeese is a top upset candidate (#1 forced TO rate, beat Clemson last year) but Vandy's turnover-averse offense (9.5 TO/game) neutralizes their primary weapon.",
+      "agent_picks": {
+        "statistical": { "pick": "Vanderbilt", "confidence_pct": 79 },
+        "matchup": { "pick": "Vanderbilt", "confidence_pct": 62 },
+        "recency": { "pick": "Vanderbilt", "confidence_pct": 68 },
+        "historical": { "pick": "Vanderbilt", "confidence_pct": 62 }
+      }
+    },
+    {
+      "game_number": 12,
+      "region": "South",
+      "team_a": { "name": "Nebraska", "seed": 4 },
+      "team_b": { "name": "Troy", "seed": 13 },
+      "winner": "Nebraska",
+      "confidence_pct": 79,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "BPI 92.7% win prob (+15.9). Nebraska DRtg #22 vs Troy #94 — equal offenses but massive defensive gap. Nebraska 0-8 all-time in tournament is a narrative risk but not a statistical one. Troy's Sun Belt schedule doesn't prepare for Big Ten-level defense.",
+      "agent_picks": {
+        "statistical": { "pick": "Nebraska", "confidence_pct": 91 },
+        "matchup": { "pick": "Nebraska", "confidence_pct": 78 },
+        "recency": { "pick": "Nebraska", "confidence_pct": 72 },
+        "historical": { "pick": "Nebraska", "confidence_pct": 74 }
+      }
+    },
+    {
+      "game_number": 13,
+      "region": "South",
+      "team_a": { "name": "North Carolina", "seed": 6 },
+      "team_b": { "name": "VCU", "seed": 11 },
+      "winner": "VCU",
+      "confidence_pct": 58,
+      "consensus_type": "protocol_override",
+      "upset": true,
+      "deciding_factor": "Bias-corrected re-analysis: 3 of 4 agents flip to VCU. Wilson OUT (19.8/9.4) drops UNC scoring 8+ PPG; UNC 6-8 on neutral/away sites. Havoc press exploits UNC's ball-handler gap without Wilson. VCU 16-of-17, all 8 rotation players hit 18+ threes vs UNC's last-in-ACC 3PT defense. CBS models gave VCU 37% — multiple experts picking VCU for Sweet 16. Original pick over-weighted BPI (61.6%) which doesn't fully discount a missing 19.8 PPG player.",
+      "agent_picks": {
+        "statistical": { "pick": "VCU", "confidence_pct": 54 },
+        "matchup": { "pick": "VCU", "confidence_pct": 62 },
+        "recency": { "pick": "VCU", "confidence_pct": 62 },
+        "historical": { "pick": "North Carolina", "confidence_pct": 61 }
+      }
+    },
+    {
+      "game_number": 14,
+      "region": "South",
+      "team_a": { "name": "Illinois", "seed": 3 },
+      "team_b": { "name": "Penn", "seed": 14 },
+      "winner": "Illinois",
+      "confidence_pct": 88,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Historic offensive efficiency (#1 AdjOE in KenPom era at 131.3). BPI 97.3% win prob, +22.4 margin. Penn's top scorer Roberts OUT (concussion), Power questionable (illness). Penn 3rd-weakest 14-seed in 12 years.",
+      "agent_picks": {
+        "statistical": { "pick": "Illinois", "confidence_pct": 94 },
+        "matchup": { "pick": "Illinois", "confidence_pct": 87 },
+        "recency": { "pick": "Illinois", "confidence_pct": 88 },
+        "historical": { "pick": "Illinois", "confidence_pct": 84 }
+      }
+    },
+    {
+      "game_number": 15,
+      "region": "South",
+      "team_a": { "name": "Saint Mary's", "seed": 7 },
+      "team_b": { "name": "Texas A&M", "seed": 10 },
+      "winner": "Saint Mary's",
+      "confidence_pct": 66,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Elite defensive profile (AdjDRtg 95.06, top ~20) + A&M's late-season collapse (4-7 in last 11, lost 83-63 in SEC Tourney) + Mgbako OUT (Jones fracture). Pace mismatch favors SMC's half-court grind. BPI and SRS both edge Saint Mary's.",
+      "agent_picks": {
+        "statistical": { "pick": "Saint Mary's", "confidence_pct": 68 },
+        "matchup": { "pick": "Saint Mary's", "confidence_pct": 62 },
+        "recency": { "pick": "Saint Mary's", "confidence_pct": 68 },
+        "historical": { "pick": "Saint Mary's", "confidence_pct": 64 }
+      }
+    },
+    {
+      "game_number": 16,
+      "region": "South",
+      "team_a": { "name": "Houston", "seed": 2 },
+      "team_b": { "name": "Idaho", "seed": 15 },
+      "winner": "Houston",
+      "confidence_pct": 95,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "BPI 98.2% win prob, +25.1 margin. Houston DRtg 90.2 (10th) suffocates Idaho's 3PT-dependent offense. 2-seeds 93.1% vs 15-seeds historically. Big Sky 0 tournament wins since 2006. Idaho first appearance since 1990.",
+      "agent_picks": {
+        "statistical": { "pick": "Houston", "confidence_pct": 97 },
+        "matchup": { "pick": "Houston", "confidence_pct": 94 },
+        "recency": { "pick": "Houston", "confidence_pct": 97 },
+        "historical": { "pick": "Houston", "confidence_pct": 93 }
+      }
+    },
+    {
+      "game_number": 17,
+      "region": "West",
+      "team_a": { "name": "Arizona", "seed": 1 },
+      "team_b": { "name": "Long Island", "seed": 16 },
+      "winner": "Arizona",
+      "confidence_pct": 98,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Elite two-way efficiency (#5 ORtg 120.3, #3 DRtg 96.1). BPI 99%, +28.5 margin. 32-2, Big 12 double champion. 1-seeds 158-2 all-time vs 16-seeds. LIU NEC-only schedule.",
+      "agent_picks": {
+        "statistical": { "pick": "Arizona", "confidence_pct": 99 },
+        "matchup": { "pick": "Arizona", "confidence_pct": 97 },
+        "recency": { "pick": "Arizona", "confidence_pct": 97 },
+        "historical": { "pick": "Arizona", "confidence_pct": 98 }
+      }
+    },
+    {
+      "game_number": 18,
+      "region": "West",
+      "team_a": { "name": "Villanova", "seed": 8 },
+      "team_b": { "name": "Utah State", "seed": 9 },
+      "winner": "Utah State",
+      "confidence_pct": 61,
+      "consensus_type": "unanimous",
+      "upset": true,
+      "deciding_factor": "USU edges every metric — ORtg 121.5 (#16) vs 118.6 (#58), NET 26 vs ~35, Q1 record 4-4 vs 2-6. MWC double champ on 5-game win streak. Hodge OUT (ACL) depletes Nova frontcourt. 9-seeds historically 51.9% in 8-vs-9.",
+      "agent_picks": {
+        "statistical": { "pick": "Utah State", "confidence_pct": 62 },
+        "matchup": { "pick": "Utah State", "confidence_pct": 62 },
+        "recency": { "pick": "Utah State", "confidence_pct": 64 },
+        "historical": { "pick": "Utah State", "confidence_pct": 55 }
+      }
+    },
+    {
+      "game_number": 19,
+      "region": "West",
+      "team_a": { "name": "Wisconsin", "seed": 5 },
+      "team_b": { "name": "High Point", "seed": 12 },
+      "winner": "Wisconsin",
+      "confidence_pct": 69,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Wisconsin ORtg 126.4 (#7) attacks HP's 161st DRtg. Elite ball security (TO rate 12.8%, 3rd) neutralizes HP's #1 steal rate. BPI 76.3%. Top upset candidate but data agents agree on Wisconsin.",
+      "agent_picks": {
+        "statistical": { "pick": "Wisconsin", "confidence_pct": 72 },
+        "matchup": { "pick": "Wisconsin", "confidence_pct": 72 },
+        "recency": { "pick": "Wisconsin", "confidence_pct": 68 },
+        "historical": { "pick": "Wisconsin", "confidence_pct": 62 }
+      }
+    },
+    {
+      "game_number": 20,
+      "region": "West",
+      "team_a": { "name": "Arkansas", "seed": 4 },
+      "team_b": { "name": "Hawai'i", "seed": 13 },
+      "winner": "Arkansas",
+      "confidence_pct": 78,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Arkansas ORtg #6 + SEC Tournament champs (Acuff 30.3 PPG in tourney). BPI 91.6%, +15 margin. Hawai'i DRtg #8 is real but ORtg 210th can't keep pace. Knox OUT (meniscus) but doesn't change outcome.",
+      "agent_picks": {
+        "statistical": { "pick": "Arkansas", "confidence_pct": 82 },
+        "matchup": { "pick": "Arkansas", "confidence_pct": 74 },
+        "recency": { "pick": "Arkansas", "confidence_pct": 78 },
+        "historical": { "pick": "Arkansas", "confidence_pct": 78 }
+      }
+    },
+    {
+      "game_number": 21,
+      "region": "West",
+      "team_a": { "name": "BYU", "seed": 6 },
+      "team_b": { "name": "Texas", "seed": 11 },
+      "winner": "BYU",
+      "confidence_pct": 63,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Dybantsa (25.3 PPG) best player on floor + Texas 301st in 3PT defense + rest/travel edge for BYU. NET 23 vs 42. BYU ORtg #10. Both missing key players (Saunders/Traore). 6-vs-11 historically volatile (~39% upset rate).",
+      "agent_picks": {
+        "statistical": { "pick": "BYU", "confidence_pct": 63 },
+        "matchup": { "pick": "BYU", "confidence_pct": 64 },
+        "recency": { "pick": "BYU", "confidence_pct": 62 },
+        "historical": { "pick": "BYU", "confidence_pct": 64 }
+      }
+    },
+    {
+      "game_number": 22,
+      "region": "West",
+      "team_a": { "name": "Gonzaga", "seed": 3 },
+      "team_b": { "name": "Kennesaw State", "seed": 14 },
+      "winner": "Gonzaga",
+      "confidence_pct": 88,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "BPI 95.6%, +19.2 margin. Gonzaga 30-3, Q1 6-1, elite defense (66.0 PPG, 39.5% opp FG). KSU missing Cottle (20.2 PPG, gambling suspension). 16-game first-round win streak. Huff OUT but Ike carries.",
+      "agent_picks": {
+        "statistical": { "pick": "Gonzaga", "confidence_pct": 95 },
+        "matchup": { "pick": "Gonzaga", "confidence_pct": 87 },
+        "recency": { "pick": "Gonzaga", "confidence_pct": 84 },
+        "historical": { "pick": "Gonzaga", "confidence_pct": 85 }
+      }
+    },
+    {
+      "game_number": 23,
+      "region": "West",
+      "team_a": { "name": "Miami", "seed": 7 },
+      "team_b": { "name": "Missouri", "seed": 10 },
+      "winner": "Missouri",
+      "confidence_pct": 55,
+      "consensus_type": "protocol_override",
+      "upset": true,
+      "deciding_factor": "Protocol override — 2-2 agent split (Statistical/Historical for Miami, Matchup/Recency for Missouri). Statistical at 57% lacks conviction for a true tiebreak. Missouri's home-court adjacency (game in St. Louis) and Miami's injury concerns break the tie. Matchup analyst identified specific scheme advantages. Missouri edges on situational factors when statistical edge is negligible.",
+      "agent_picks": {
+        "statistical": { "pick": "Miami", "confidence_pct": 57 },
+        "matchup": { "pick": "Missouri", "confidence_pct": 56 },
+        "recency": { "pick": "Missouri", "confidence_pct": 56 },
+        "historical": { "pick": "Miami", "confidence_pct": 59 }
+      }
+    },
+    {
+      "game_number": 24,
+      "region": "West",
+      "team_a": { "name": "Purdue", "seed": 2 },
+      "team_b": { "name": "Queens", "seed": 15 },
+      "winner": "Purdue",
+      "confidence_pct": 94,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Purdue ORtg 124.7 (#2 nationally) vs Queens DRtg 116.0 (349th) — one of the largest efficiency gaps in the bracket. BPI #9, -25.5 spread. Big Ten Tournament champs. Queens first-ever D-I tournament, SOS 262nd.",
+      "agent_picks": {
+        "statistical": { "pick": "Purdue", "confidence_pct": 96 },
+        "matchup": { "pick": "Purdue", "confidence_pct": 96 },
+        "recency": { "pick": "Purdue", "confidence_pct": 91 },
+        "historical": { "pick": "Purdue", "confidence_pct": 93 }
+      }
+    },
+    {
+      "game_number": 25,
+      "region": "Midwest",
+      "team_a": { "name": "Michigan", "seed": 1 },
+      "team_b": { "name": "Howard", "seed": 16 },
+      "winner": "Michigan",
+      "confidence_pct": 97,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "SRS #1 nationally, BPI ~98.9%. 31-3, 19-1 Big Ten. ORtg 12th, DRtg 14th. CBS rated least likely 1-seed to lose. Howard played 3 games in 5 days, lost by 21-37 pts to high-major opponents.",
+      "agent_picks": {
+        "statistical": { "pick": "Michigan", "confidence_pct": 97 },
+        "matchup": { "pick": "Michigan", "confidence_pct": 97 },
+        "recency": { "pick": "Michigan", "confidence_pct": 97 },
+        "historical": { "pick": "Michigan", "confidence_pct": 96 }
+      }
+    },
+    {
+      "game_number": 26,
+      "region": "Midwest",
+      "team_a": { "name": "Georgia", "seed": 8 },
+      "team_b": { "name": "Saint Louis", "seed": 9 },
+      "winner": "Saint Louis",
+      "confidence_pct": 62,
+      "consensus_type": "unanimous",
+      "upset": true,
+      "deciding_factor": "SLU's elite two-way efficiency (opp eFG% #2, opp 3PT% #8, own 3PT% #2) + 28-5 record + Avila matchup anomaly. Georgia dropped 7 of last 13, no tournament wins since 2002. 9-seeds 51.9% in 8-vs-9.",
+      "agent_picks": {
+        "statistical": { "pick": "Saint Louis", "confidence_pct": 57 },
+        "matchup": { "pick": "Saint Louis", "confidence_pct": 64 },
+        "recency": { "pick": "Saint Louis", "confidence_pct": 64 },
+        "historical": { "pick": "Saint Louis", "confidence_pct": 62 }
+      }
+    },
+    {
+      "game_number": 27,
+      "region": "Midwest",
+      "team_a": { "name": "Texas Tech", "seed": 5 },
+      "team_b": { "name": "Akron", "seed": 12 },
+      "winner": "Akron",
+      "confidence_pct": 60,
+      "consensus_type": "recency_override",
+      "upset": true,
+      "deciding_factor": "Recency override — Toppin OUT (torn ACL, 21.8/10.8 All-American). TTU's statistical baseline invalidated. Post-Toppin: 3-game losing streak, blown out by ISU 75-53. Akron on 10-game win streak, 29-5, top-10 offense. Line moved -9.5 to -7.5.",
+      "agent_picks": {
+        "statistical": { "pick": "Texas Tech", "confidence_pct": 68 },
+        "matchup": { "pick": "Akron", "confidence_pct": 62 },
+        "recency": { "pick": "Akron", "confidence_pct": 58 },
+        "historical": { "pick": "Texas Tech", "confidence_pct": 72 }
+      }
+    },
+    {
+      "game_number": 28,
+      "region": "Midwest",
+      "team_a": { "name": "Alabama", "seed": 4 },
+      "team_b": { "name": "Hofstra", "seed": 13 },
+      "winner": "Alabama",
+      "confidence_pct": 71,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Philon (21.5 PPG) + #1 scoring offense survives Holloway suspension. But 291st DRtg + 29% 3PT without Holloway + 9 scholarship players make this a top upset candidate. Hofstra's elite D (#3 opp FG%) and Davis/Edmead are live threats.",
+      "agent_picks": {
+        "statistical": { "pick": "Alabama", "confidence_pct": 88 },
+        "matchup": { "pick": "Alabama", "confidence_pct": 62 },
+        "recency": { "pick": "Alabama", "confidence_pct": 62 },
+        "historical": { "pick": "Alabama", "confidence_pct": 71 }
+      }
+    },
+    {
+      "game_number": 29,
+      "region": "Midwest",
+      "team_a": { "name": "Tennessee", "seed": 6 },
+      "team_b": { "name": "Miami OH", "seed": 11 },
+      "winner": "Tennessee",
+      "confidence_pct": 70,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Tennessee SRS 24.20 (#6) vs Miami OH SRS -0.92 (#160) — 25-point gap. Tennessee DRtg 97.1 (#22) vs Miami OH 102.7 (#115). Tennessee OREB #2 nationally overwhelms MAC frontcourt. Miami OH shoots 39.7% from 3 (10th nationally) with 7 double-digit scorers but SOS 285th and on 48-hr First Four turnaround. Barnes 12-7 in tournament.",
+      "agent_picks": {
+        "statistical": { "pick": "Tennessee", "confidence_pct": 74 },
+        "matchup": { "pick": "Tennessee", "confidence_pct": 72 },
+        "recency": { "pick": "Tennessee", "confidence_pct": 68 },
+        "historical": { "pick": "Tennessee", "confidence_pct": 67 }
+      }
+    },
+    {
+      "game_number": 30,
+      "region": "Midwest",
+      "team_a": { "name": "Virginia", "seed": 3 },
+      "team_b": { "name": "Wright State", "seed": 14 },
+      "winner": "Virginia",
+      "confidence_pct": 89,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "BPI 93%, -18.5 spread. Virginia 29-5, NET #13, DRtg #16, BPG #1 nationally. Q1 8-4. Wright State NET #127, 0-4 vs ranked. 3-seeds ~85% vs 14-seeds.",
+      "agent_picks": {
+        "statistical": { "pick": "Virginia", "confidence_pct": 89 },
+        "matchup": { "pick": "Virginia", "confidence_pct": 89 },
+        "recency": { "pick": "Virginia", "confidence_pct": 89 },
+        "historical": { "pick": "Virginia", "confidence_pct": 89 }
+      }
+    },
+    {
+      "game_number": 31,
+      "region": "Midwest",
+      "team_a": { "name": "Kentucky", "seed": 7 },
+      "team_b": { "name": "Santa Clara", "seed": 10 },
+      "winner": "Santa Clara",
+      "confidence_pct": 59,
+      "consensus_type": "protocol_override",
+      "upset": true,
+      "deciding_factor": "Bias-corrected re-analysis: all 4 agents flip to Santa Clara. Kentucky 21-13 (worst record of any 7+ seed), Quaintance confirmed OUT for opening weekend (hasn't played since Jan 7, only 4 games all season), Knox OUT, Lowe OUT. Santa Clara AdjEM #35, top-23 offense, 3 All-WCC First Team players, 29.2 3PA/game exploits depleted Kentucky interior. Market compressed to Kentucky -2.5. SI called Santa Clara 'one of the most common upset picks.' Original pick was brand-name bias — identical 64% from all 4 agents suggests anchoring, not independent analysis.",
+      "agent_picks": {
+        "statistical": { "pick": "Santa Clara", "confidence_pct": 63 },
+        "matchup": { "pick": "Santa Clara", "confidence_pct": 57 },
+        "recency": { "pick": "Santa Clara", "confidence_pct": 62 },
+        "historical": { "pick": "Santa Clara", "confidence_pct": 54 }
+      }
+    },
+    {
+      "game_number": 32,
+      "region": "Midwest",
+      "team_a": { "name": "Iowa State", "seed": 2 },
+      "team_b": { "name": "Tennessee State", "seed": 15 },
+      "winner": "Iowa State",
+      "confidence_pct": 94,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "BPI 94%, +25.6 margin. NET #6 vs #172. Big 12 tourney demolition of ASU 91-42. CBS rated least likely 2-seed to lose. Ball security (10.3 TO/game) neutralizes TSU press. TSU first tournament since 1994.",
+      "agent_picks": {
+        "statistical": { "pick": "Iowa State", "confidence_pct": 94 },
+        "matchup": { "pick": "Iowa State", "confidence_pct": 94 },
+        "recency": { "pick": "Iowa State", "confidence_pct": 94 },
+        "historical": { "pick": "Iowa State", "confidence_pct": 94 }
+      }
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "round": "round-of-32",
+  "date_generated": "2026-03-18",
+  "matchups": [
+    {
+      "game_number": 1,
+      "region": "East",
+      "team_a": { "name": "Duke", "seed": 1 },
+      "team_b": { "name": "Ohio State", "seed": 8 },
+      "winner": "Duke",
+      "confidence_pct": 84,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Duke #1 NET with historic +39.29 AdjEM (2nd best in KenPom era). Boozer (22.5/10.2, 57.9% FG) has no interior answer from OSU. Duke 17-2 Q1 vs OSU 5-11 Q1. Foster OUT but Duke's talent floor still far above OSU ceiling. Thornton (20.2 PPG) is only upset path via outlier 3PT shooting vs #2 defense.",
+      "agent_picks": {
+        "statistical": { "pick": "Duke", "confidence_pct": 91 },
+        "matchup": { "pick": "Duke", "confidence_pct": 88 },
+        "recency": { "pick": "Duke", "confidence_pct": 82 },
+        "historical": { "pick": "Duke", "confidence_pct": 76 }
+      }
+    },
+    {
+      "game_number": 2,
+      "region": "East",
+      "team_a": { "name": "St. John's", "seed": 5 },
+      "team_b": { "name": "Kansas", "seed": 4 },
+      "winner": "St. John's",
+      "confidence_pct": 60,
+      "consensus_type": "unanimous",
+      "upset": true,
+      "deciding_factor": "SJU BPI #16 vs KU #21. SJU top-12 defense vs KU 57th-ranked offense. Pitino's pressure creates +7.5 possession advantage; KU bench 338th nationally can't sustain depth battle. Kansas lost 5 of last 8 including 69-47 blowout to Houston. Peterson slumping (35.4% FG closing stretch). 4v5 historically close but analytics clearly favor SJU.",
+      "agent_picks": {
+        "statistical": { "pick": "St. John's", "confidence_pct": 58 },
+        "matchup": { "pick": "St. John's", "confidence_pct": 62 },
+        "recency": { "pick": "St. John's", "confidence_pct": 63 },
+        "historical": { "pick": "St. John's", "confidence_pct": 55 }
+      }
+    },
+    {
+      "game_number": 3,
+      "region": "East",
+      "team_a": { "name": "South Florida", "seed": 11 },
+      "team_b": { "name": "Michigan State", "seed": 3 },
+      "winner": "Michigan State",
+      "confidence_pct": 71,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "MSU NET #11 vs USF #45 — wide efficiency gap across all metrics. MSU #3 rebounding margin (+11.7) neutralizes USF strengths. Fears Jr. (15.7/9.2, All-American) best player on floor. Izzo 59 tourney wins. USF 33.1% 3PT (worst in field) is fatal in half-court. Nelson is legit two-way force but AAC schedule gap too wide.",
+      "agent_picks": {
+        "statistical": { "pick": "Michigan State", "confidence_pct": 74 },
+        "matchup": { "pick": "Michigan State", "confidence_pct": 68 },
+        "recency": { "pick": "Michigan State", "confidence_pct": 68 },
+        "historical": { "pick": "Michigan State", "confidence_pct": 72 }
+      }
+    },
+    {
+      "game_number": 4,
+      "region": "East",
+      "team_a": { "name": "UCLA", "seed": 7 },
+      "team_b": { "name": "UConn", "seed": 2 },
+      "winner": "UConn",
+      "confidence_pct": 68,
+      "consensus_type": "split",
+      "upset": false,
+      "deciding_factor": "Statistical tiebreaker — data agents split (Statistical: UConn, Matchup: UCLA). UConn DRtg 97.9 (#24) vs UCLA DRtg 106.9 (#179). UConn BPI #10 vs UCLA #24. Scoring margin +12.4 vs +6.7. Q1 record 7-2 vs 5-8. Matchup analyst dissents citing UCLA's 3PT differential (37.7% vs 31.8% allowed), Dent's elite A/TO (3.88), and UConn's 17-TO Big East final collapse. Stewart (knee) questionable for UConn.",
+      "agent_picks": {
+        "statistical": { "pick": "UConn", "confidence_pct": 72 },
+        "matchup": { "pick": "UCLA", "confidence_pct": 54 },
+        "recency": { "pick": "UConn", "confidence_pct": 72 },
+        "historical": { "pick": "UConn", "confidence_pct": 72 }
+      }
+    },
+    {
+      "game_number": 5,
+      "region": "South",
+      "team_a": { "name": "Florida", "seed": 1 },
+      "team_b": { "name": "Iowa", "seed": 9 },
+      "winner": "Florida",
+      "confidence_pct": 83,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Florida NET #4, BPI #5 vs Iowa NET #27, BPI #31. Florida #1 nationally in rebounding (45.4 RPG, +15.3 margin) demolishes Iowa's bottom-tier boards. Chinyelu (SEC DPOY) + Condon dominate interior. Iowa Q1 record 5-9 vs Florida 12-6. Stirtz (20.2 PPG) is only upset path. Iowa's Clemson upset discounted (2 ACL absences). Game in Tampa favors Florida.",
+      "agent_picks": {
+        "statistical": { "pick": "Florida", "confidence_pct": 82 },
+        "matchup": { "pick": "Florida", "confidence_pct": 82 },
+        "recency": { "pick": "Florida", "confidence_pct": 82 },
+        "historical": { "pick": "Florida", "confidence_pct": 84 }
+      }
+    },
+    {
+      "game_number": 6,
+      "region": "South",
+      "team_a": { "name": "Vanderbilt", "seed": 5 },
+      "team_b": { "name": "Nebraska", "seed": 4 },
+      "winner": "Vanderbilt",
+      "confidence_pct": 59,
+      "consensus_type": "unanimous",
+      "upset": true,
+      "deciding_factor": "Vandy BPI #14 vs Nebraska #18, AdjEM #12 vs ~#15. Vandy ORtg 121.1 (#14) vs Nebraska 114.0 (#87) — significant offensive gap. Vandy #1 block rate neutralizes Nebraska interior. Tanner (19.1 PPG) + Miles elite guard depth. Vandy beat #1 Florida by 17 in SEC Tourney. Nebraska 0-8 all-time in tourney. Nebraska elite D (DRtg 97.7, 29% opp 3PT) is main counter.",
+      "agent_picks": {
+        "statistical": { "pick": "Vanderbilt", "confidence_pct": 63 },
+        "matchup": { "pick": "Vanderbilt", "confidence_pct": 62 },
+        "recency": { "pick": "Vanderbilt", "confidence_pct": 58 },
+        "historical": { "pick": "Vanderbilt", "confidence_pct": 54 }
+      }
+    },
+    {
+      "game_number": 7,
+      "region": "South",
+      "team_a": { "name": "VCU", "seed": 11 },
+      "team_b": { "name": "Illinois", "seed": 3 },
+      "winner": "Illinois",
+      "confidence_pct": 64,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Re-analyzed after R64 VCU flip (replaces UNC). Illinois #1 AdjOE (131.3) and top-10 TO protection make them a poor Havoc victim — 5 double-digit scorers create volume no press fully suppresses. 38.7% OREB (#3) neutralizes VCU transition off misses. But Illinois defense ~#28, dead last in forced TO rate — VCU gets clean half-court looks with distributed 3PT (36.7%, 8 shooters). Illinois 0-4 OT, 5-5 last 10 — pattern of late-game collapse under pressure is exactly what Havoc engineers. Confidence drops from 76% (vs depleted UNC) to 64% — VCU is materially more dangerous. Illinois wins on offensive volume, not defensive stops.",
+      "agent_picks": {
+        "statistical": { "pick": "Illinois", "confidence_pct": 62 },
+        "matchup": { "pick": "Illinois", "confidence_pct": 68 },
+        "recency": { "pick": "Illinois", "confidence_pct": 64 },
+        "historical": { "pick": "Illinois", "confidence_pct": 62 }
+      }
+    },
+    {
+      "game_number": 8,
+      "region": "South",
+      "team_a": { "name": "Saint Mary's", "seed": 7 },
+      "team_b": { "name": "Houston", "seed": 2 },
+      "winner": "Houston",
+      "confidence_pct": 71,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Houston BPI #4 vs SMC #26, NET ~#1 vs #22. Houston DRtg 90.2 (#5) superior to SMC's 95.06. Houston Q1 7-5 vs SMC Q1 1-4. Ultra-slow pace (~60 poss) amplifies variance but Houston's defense wins the grind. SMC's 38.6% 3PT (#13) is only upset lever vs Houston's 32.1% opp 3PT. Sampson's pedigree (2025 title game) seals it.",
+      "agent_picks": {
+        "statistical": { "pick": "Houston", "confidence_pct": 72 },
+        "matchup": { "pick": "Houston", "confidence_pct": 68 },
+        "recency": { "pick": "Houston", "confidence_pct": 72 },
+        "historical": { "pick": "Houston", "confidence_pct": 72 }
+      }
+    },
+    {
+      "game_number": 9,
+      "region": "West",
+      "team_a": { "name": "Arizona", "seed": 1 },
+      "team_b": { "name": "Utah State", "seed": 9 },
+      "winner": "Arizona",
+      "confidence_pct": 79,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Arizona KenPom #2, dual top-5 efficiency (#5 ORtg, #3 DRtg). 32-2, Big 12 double champ, +17.4 scoring margin (#4). Arizona +10.8 rebound margin crushes USU's 267th-ranked defensive rebounding. USU KenPom ~30, NET #26 — wide tier gap. USU's 3PT + turnover-forcing (steal% #16) is only upset path but Arizona's elite D counters.",
+      "agent_picks": {
+        "statistical": { "pick": "Arizona", "confidence_pct": 78 },
+        "matchup": { "pick": "Arizona", "confidence_pct": 78 },
+        "recency": { "pick": "Arizona", "confidence_pct": 76 },
+        "historical": { "pick": "Arizona", "confidence_pct": 84 }
+      }
+    },
+    {
+      "game_number": 10,
+      "region": "West",
+      "team_a": { "name": "Wisconsin", "seed": 5 },
+      "team_b": { "name": "Arkansas", "seed": 4 },
+      "winner": "Arkansas",
+      "confidence_pct": 57,
+      "consensus_type": "split",
+      "upset": false,
+      "deciding_factor": "Statistical tiebreaker — data agents split (Statistical: Arkansas, Matchup: Wisconsin). Arkansas KenPom #15 vs Wisconsin #22. Acuff (22.9 PPG, SEC Tourney MVP 30.3 PPG avg) is best player on floor. Arkansas ORtg #6, TO rate #1. But Arkansas allows 80.1 PPG and Wisconsin's 42.5% 3PT attempt rate (#4) exploits porous D. Knox OUT reduces Arkansas depth. Genuine coin-flip.",
+      "agent_picks": {
+        "statistical": { "pick": "Arkansas", "confidence_pct": 62 },
+        "matchup": { "pick": "Wisconsin", "confidence_pct": 62 },
+        "recency": { "pick": "Wisconsin", "confidence_pct": 58 },
+        "historical": { "pick": "Arkansas", "confidence_pct": 58 }
+      }
+    },
+    {
+      "game_number": 11,
+      "region": "West",
+      "team_a": { "name": "BYU", "seed": 6 },
+      "team_b": { "name": "Gonzaga", "seed": 3 },
+      "winner": "Gonzaga",
+      "confidence_pct": 66,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Gonzaga 30-3, elite D (66.0 PPG allowed, 39.5% opp FG). Paint dominance #1 nationally (44.7 PPG scored, 25.1 allowed). Ike 19.7/8.2 on 57.3% FG. Q1 6-1 vs BYU Q1 7-10. BYU missing Saunders (ACL) + Traore — offense collapses onto Dybantsa alone. Huff OUT but Gonzaga 13-2 without him. Dybantsa (25.3 PPG) is genuine 35% upset lever.",
+      "agent_picks": {
+        "statistical": { "pick": "Gonzaga", "confidence_pct": 64 },
+        "matchup": { "pick": "Gonzaga", "confidence_pct": 68 },
+        "recency": { "pick": "Gonzaga", "confidence_pct": 68 },
+        "historical": { "pick": "Gonzaga", "confidence_pct": 62 }
+      }
+    },
+    {
+      "game_number": 12,
+      "region": "West",
+      "team_a": { "name": "Missouri", "seed": 10 },
+      "team_b": { "name": "Purdue", "seed": 2 },
+      "winner": "Purdue",
+      "confidence_pct": 69,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Purdue #1-2 nationally in ORtg (124.7-130.5). Smith 14.9/8.7+ APG elite floor general. NET #10 vs Missouri #58. Purdue's offensive ceiling is opponent-agnostic at this tier gap. Original analysis was vs Miami; Missouri substitution (R64 protocol override) does not change outcome — Purdue's structural advantages hold against either opponent.",
+      "agent_picks": {
+        "statistical": { "pick": "Purdue", "confidence_pct": 68 },
+        "matchup": { "pick": "Purdue", "confidence_pct": 73 },
+        "recency": { "pick": "Purdue", "confidence_pct": 62 },
+        "historical": { "pick": "Purdue", "confidence_pct": 72 }
+      }
+    },
+    {
+      "game_number": 13,
+      "region": "Midwest",
+      "team_a": { "name": "Michigan", "seed": 1 },
+      "team_b": { "name": "Saint Louis", "seed": 9 },
+      "winner": "Michigan",
+      "confidence_pct": 81,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Michigan SRS #1 (38.53), DRtg 87.3 (#1 nationally), 31-3. 61% 2PT (#4) + 21.6 APG (#2) bypasses SLU's elite 3PT D. Mara (7-2) + Lendeborg (Big Ten POY) best frontcourt in field. SLU's opp eFG% #2 and own 3PT% #2 make them most dangerous 9-seed but A-10 SOS gap is wide. Avila 40%+ 3PT stretch-5 is real anomaly but Michigan's interior length answers it.",
+      "agent_picks": {
+        "statistical": { "pick": "Michigan", "confidence_pct": 78 },
+        "matchup": { "pick": "Michigan", "confidence_pct": 84 },
+        "recency": { "pick": "Michigan", "confidence_pct": 78 },
+        "historical": { "pick": "Michigan", "confidence_pct": 82 }
+      }
+    },
+    {
+      "game_number": 14,
+      "region": "Midwest",
+      "team_a": { "name": "Akron", "seed": 12 },
+      "team_b": { "name": "Alabama", "seed": 4 },
+      "winner": "Akron",
+      "confidence_pct": 56,
+      "consensus_type": "recency_override",
+      "upset": true,
+      "deciding_factor": "Recency override + Statistical tiebreaker. Holloway SUSPENDED (felony, 16.8 PPG, 43.8% 3PT, team-leader 3PM) — season-long stats invalidated. Alabama down to 9 scholarship players, DRtg 291st, 3PT drops to ~29% without Holloway. Akron top-10 offense (89.9 PPG #6, eFG% #8), three 40%+ 3PT shooters, 10-game win streak. Philon (21.5 PPG) keeps Alabama competitive but can't fix 291st defense alone.",
+      "agent_picks": {
+        "statistical": { "pick": "Akron", "confidence_pct": 58 },
+        "matchup": { "pick": "Alabama", "confidence_pct": 62 },
+        "recency": { "pick": "Akron", "confidence_pct": 58 },
+        "historical": { "pick": "Alabama", "confidence_pct": 58 }
+      }
+    },
+    {
+      "game_number": 15,
+      "region": "Midwest",
+      "team_a": { "name": "Tennessee", "seed": 6 },
+      "team_b": { "name": "Virginia", "seed": 3 },
+      "winner": "Virginia",
+      "confidence_pct": 61,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Virginia 29-5, NET #13, DRtg #16, BPG #1 nationally (Onyenso 3.0 BPG, 21 blocks in ACC Tourney). Shot-blocking directly counters Tennessee's #2 OREB. Virginia Q1 8-4, played Duke within 4 in ACC final. Tennessee 22-11, late-season slide (4 of last 6 losses). 3-seeds ~74% vs 6-seeds historically.",
+      "agent_picks": {
+        "statistical": { "pick": "Virginia", "confidence_pct": 62 },
+        "matchup": { "pick": "Virginia", "confidence_pct": 65 },
+        "recency": { "pick": "Virginia", "confidence_pct": 60 },
+        "historical": { "pick": "Virginia", "confidence_pct": 58 }
+      }
+    },
+    {
+      "game_number": 16,
+      "region": "Midwest",
+      "team_a": { "name": "Santa Clara", "seed": 10 },
+      "team_b": { "name": "Iowa State", "seed": 2 },
+      "winner": "Iowa State",
+      "confidence_pct": 79,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Iowa State NET #6, BPI #6, forces TOs on 21.9% of possessions (#4 nationally). Santa Clara (R64 bias-correction flip over Kentucky) has top-23 offense and 29.2 3PA/game, but ISU holds opponents to 32.1% from deep and Santa Clara's 136th-ranked defense can't contain ISU's elite offense. ISU's pressure system is opponent-agnostic at this tier gap. Confidence drops marginally from 81% (vs depleted Kentucky) to 79% (Santa Clara is a better team than depleted Kentucky).",
+      "agent_picks": {
+        "statistical": { "pick": "Iowa State", "confidence_pct": 82 },
+        "matchup": { "pick": "Iowa State", "confidence_pct": 85 },
+        "recency": { "pick": "Iowa State", "confidence_pct": 80 },
+        "historical": { "pick": "Iowa State", "confidence_pct": 78 }
+      }
+    }
+  ]
+}

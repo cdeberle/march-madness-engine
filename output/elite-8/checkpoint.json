@@ -1,0 +1,12 @@
+{
+  "round": "elite-8",
+  "total_games": 4,
+  "completed_games": 4,
+  "games": [
+    { "game_number": 1, "region": "East", "team_a": "Duke", "seed_a": 1, "team_b": "UConn", "seed_b": 2, "status": "completed", "winner": "Duke" },
+    { "game_number": 2, "region": "South", "team_a": "Florida", "seed_a": 1, "team_b": "Houston", "seed_b": 2, "status": "completed", "winner": "Houston" },
+    { "game_number": 3, "region": "West", "team_a": "Arizona", "seed_a": 1, "team_b": "Purdue", "seed_b": 2, "status": "completed", "winner": "Arizona" },
+    { "game_number": 4, "region": "Midwest", "team_a": "Michigan", "seed_a": 1, "team_b": "Iowa State", "seed_b": 2, "status": "completed", "winner": "Michigan" }
+  ],
+  "next_game": null
+}

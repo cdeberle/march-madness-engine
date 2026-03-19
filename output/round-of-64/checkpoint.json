@@ -1,0 +1,55 @@
+{
+  "round": "round-of-64",
+  "last_updated": "2026-03-18",
+  "status": "complete",
+  "completed_games": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32],
+  "current_game": null,
+  "current_region": "West",
+  "regions_completed": ["East", "South", "West", "Midwest"],
+  "total_games": 32,
+  "games_remaining": 0,
+  "next_matchup": null,
+  "all_matchups": {
+    "East": [
+      { "game": 1, "teams": "Duke (1) vs Siena (16)", "status": "complete" },
+      { "game": 2, "teams": "Ohio State (8) vs TCU (9)", "status": "complete" },
+      { "game": 3, "teams": "St. John's (5) vs Northern Iowa (12)", "status": "complete" },
+      { "game": 4, "teams": "Kansas (4) vs CA Baptist (13)", "status": "complete" },
+      { "game": 5, "teams": "Louisville (6) vs South Florida (11)", "status": "complete", "upset": true },
+      { "game": 6, "teams": "Michigan State (3) vs North Dakota State (14)", "status": "complete" },
+      { "game": 7, "teams": "UCLA (7) vs UCF (10)", "status": "complete" },
+      { "game": 8, "teams": "UConn (2) vs Furman (15)", "status": "complete" }
+    ],
+    "South": [
+      { "game": 9, "teams": "Florida (1) vs PV/LEH (16)", "status": "complete" },
+      { "game": 10, "teams": "Clemson (8) vs Iowa (9)", "status": "complete", "upset": true },
+      { "game": 11, "teams": "Vanderbilt (5) vs McNeese (12)", "status": "complete" },
+      { "game": 12, "teams": "Nebraska (4) vs Troy (13)", "status": "complete" },
+      { "game": 13, "teams": "North Carolina (6) vs VCU (11)", "status": "complete" },
+      { "game": 14, "teams": "Illinois (3) vs Penn (14)", "status": "complete" },
+      { "game": 15, "teams": "Saint Mary's (7) vs Texas A&M (10)", "status": "complete" },
+      { "game": 16, "teams": "Houston (2) vs Idaho (15)", "status": "complete" }
+    ],
+    "West": [
+      { "game": 17, "teams": "Arizona (1) vs Long Island (16)", "status": "complete" },
+      { "game": 18, "teams": "Villanova (8) vs Utah State (9)", "status": "complete", "upset": true },
+      { "game": 19, "teams": "Wisconsin (5) vs High Point (12)", "status": "complete" },
+      { "game": 20, "teams": "Arkansas (4) vs Hawai'i (13)", "status": "complete" },
+      { "game": 21, "teams": "BYU (6) vs Texas (11)", "status": "complete" },
+      { "game": 22, "teams": "Gonzaga (3) vs Kennesaw State (14)", "status": "complete" },
+      { "game": 23, "teams": "Miami (7) vs Missouri (10)", "status": "complete" },
+      { "game": 24, "teams": "Purdue (2) vs Queens (15)", "status": "complete" }
+    ],
+    "Midwest": [
+      { "game": 25, "teams": "Michigan (1) vs Howard (16)", "status": "complete" },
+      { "game": 26, "teams": "Georgia (8) vs Saint Louis (9)", "status": "complete", "upset": true },
+      { "game": 27, "teams": "Texas Tech (5) vs Akron (12)", "status": "complete", "upset": true },
+      { "game": 28, "teams": "Alabama (4) vs Hofstra (13)", "status": "complete" },
+      { "game": 29, "teams": "Tennessee (6) vs SMU (11)", "status": "complete" },
+      { "game": 30, "teams": "Virginia (3) vs Wright State (14)", "status": "complete" },
+      { "game": 31, "teams": "Kentucky (7) vs Santa Clara (10)", "status": "complete" },
+      { "game": 32, "teams": "Iowa State (2) vs Tennessee State (15)", "status": "complete" }
+    ]
+  },
+  "handoff_instructions": "Start a new Claude Code session in this project directory. Read CLAUDE.md, then read output/round-of-64/checkpoint.json to see progress. Read output/round-of-64/picks.json and output/round-of-64/analysis.md for completed results. Resume from the next_matchup listed above. Append new results to both files — do not overwrite."
+}

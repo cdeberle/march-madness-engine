@@ -1,0 +1,23 @@
+{
+  "round": "championship",
+  "date_generated": "2026-03-19",
+  "matchups": [
+    {
+      "game_number": 1,
+      "region": "East/South vs West/Midwest",
+      "team_a": { "name": "Duke", "seed": 1 },
+      "team_b": { "name": "Arizona", "seed": 1 },
+      "winner": "Duke",
+      "confidence_pct": 58,
+      "consensus_type": "split",
+      "upset": false,
+      "deciding_factor": "Data agents split (Statistical 54% Arizona, Matchup 62% Duke). Statistical below 56% threshold — tiebreaker void. Agents 2-2. Situational tiebreaker: Matchup Analyst identified structural schematic advantages — Boozer's dual-threat scoring forces Arizona's 2PT defense into compromise, Duke's slow pace suppresses Arizona's paint-volume offense, and Arizona's 4th-lowest 3PT attempt rate leaves no perimeter counter. Duke already won 100-93 head-to-head this tournament. Ngongba day-to-day (not confirmed out) — insufficient for factual override.",
+      "agent_picks": {
+        "statistical": { "pick": "Arizona", "confidence_pct": 54 },
+        "matchup": { "pick": "Duke", "confidence_pct": 62 },
+        "recency": { "pick": "Arizona", "confidence_pct": 57 },
+        "historical": { "pick": "Duke", "confidence_pct": 58 }
+      }
+    }
+  ]
+}

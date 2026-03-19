@@ -1,0 +1,40 @@
+{
+  "round": "final-4",
+  "date_generated": "2026-03-19",
+  "matchups": [
+    {
+      "game_number": 1,
+      "region": "East vs South",
+      "team_a": { "name": "Duke", "seed": 1 },
+      "team_b": { "name": "Houston", "seed": 2 },
+      "winner": "Duke",
+      "confidence_pct": 61,
+      "consensus_type": "majority",
+      "upset": false,
+      "deciding_factor": "Duke's ~5-point AdjEM advantage (+38.90 vs +33.5) and #1 overall offensive efficiency, anchored by Cameron Boozer's matchup-proof scoring (22.5 PPG, 56.5% FG, 40.9% 3PT). Duke's elite ball security (3rd nationally in A/TO ratio, 1.82) limits Houston's ability to generate the turnovers their defensive scheme depends on.",
+      "agent_picks": {
+        "statistical": { "pick": "Duke", "confidence_pct": 68 },
+        "matchup": { "pick": "Duke", "confidence_pct": 58 },
+        "recency": { "pick": "Duke", "confidence_pct": 58 },
+        "historical": { "pick": "Houston", "confidence_pct": 54 }
+      }
+    },
+    {
+      "game_number": 2,
+      "region": "West vs Midwest",
+      "team_a": { "name": "Arizona", "seed": 1 },
+      "team_b": { "name": "Michigan", "seed": 1 },
+      "winner": "Arizona",
+      "confidence_pct": 57,
+      "consensus_type": "split",
+      "upset": false,
+      "deciding_factor": "Data agents split (Statistical 54% Arizona, Matchup 57% Michigan). Statistical below 56% threshold — tiebreaker void. Agents 2-2. Situational tiebreaker: efficiency metrics essentially tied (AdjEM +37.66 vs +37.58), but Michigan is missing two rotation players (Grady OUT, Cason OUT) while Arizona is at full strength. Roster availability breaks the tie.",
+      "agent_picks": {
+        "statistical": { "pick": "Arizona", "confidence_pct": 54 },
+        "matchup": { "pick": "Michigan", "confidence_pct": 57 },
+        "recency": { "pick": "Arizona", "confidence_pct": 62 },
+        "historical": { "pick": "Michigan", "confidence_pct": 54 }
+      }
+    }
+  ]
+}

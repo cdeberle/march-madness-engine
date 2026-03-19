@@ -1,0 +1,142 @@
+{
+  "round": "sweet-16",
+  "date_generated": "2026-03-18",
+  "matchups": [
+    {
+      "game_number": 1,
+      "region": "East",
+      "team_a": { "name": "Duke", "seed": 1 },
+      "team_b": { "name": "St. John's", "seed": 5 },
+      "winner": "Duke",
+      "confidence_pct": 72,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Duke #1 NET with historic +38.9 AdjEM, top-4 both offense and defense. Boozer (22.5/10.2, 40.9% 3PT) stretches Ejiofor away from rim, neutralizing SJU's primary defensive weapon. Foster OUT and Ngongba day-to-day reduce Duke depth, but efficiency gap (17-2 Q1 vs 5-5 Q1) is too wide. SJU's 35.9% OREB rate and Ejiofor's 3.4 BPG in March are legitimate upset levers but insufficient against Duke's dual elite efficiency.",
+      "agent_picks": {
+        "statistical": { "pick": "Duke", "confidence_pct": 80 },
+        "matchup": { "pick": "Duke", "confidence_pct": 64 },
+        "recency": { "pick": "Duke", "confidence_pct": 68 },
+        "historical": { "pick": "Duke", "confidence_pct": 76 }
+      }
+    },
+    {
+      "game_number": 2,
+      "region": "East",
+      "team_a": { "name": "Michigan State", "seed": 3 },
+      "team_b": { "name": "UConn", "seed": 2 },
+      "winner": "UConn",
+      "confidence_pct": 57,
+      "consensus_type": "protocol_override",
+      "upset": false,
+      "deciding_factor": "Protocol override — Statistical tiebreaker (MSU 52%) vacated due to minimum-confidence pick lacking conviction. Three of four agents independently converged on UConn (Matchup 58%, Recency 62%, Historical 61%). UConn's defensive profile specifically counters MSU's identity: top-10 block rate and 45.2% opp 2PT suppress MSU's interior-heavy offense, while MSU's 321st-ranked 3PT defense is a structural liability against UConn's 35.2% 3PT shooting. The KenPom gap (~#9 vs ~#12) falls below the protocol's own <3 AdjEM low-confidence threshold. UConn's late-season slide (7-4 last 11) is contextualized by Big East gauntlet scheduling. Hurley 10-4 in NCAAs with back-to-back titles. Demary ankle trending positive. MSU's elite rebounding (+11.7, #3) and Fears Jr. (#1 assists nationally) remain legitimate but insufficient against a defense purpose-built to suppress their style.",
+      "agent_picks": {
+        "statistical": { "pick": "Michigan State", "confidence_pct": 52 },
+        "matchup": { "pick": "UConn", "confidence_pct": 58 },
+        "recency": { "pick": "UConn", "confidence_pct": 62 },
+        "historical": { "pick": "UConn", "confidence_pct": 61 }
+      }
+    },
+    {
+      "game_number": 3,
+      "region": "South",
+      "team_a": { "name": "Florida", "seed": 1 },
+      "team_b": { "name": "Vanderbilt", "seed": 5 },
+      "winner": "Florida",
+      "confidence_pct": 62,
+      "consensus_type": "split",
+      "upset": false,
+      "deciding_factor": "Statistical tiebreaker — data agents split (Statistical: Florida 63%, Matchup: Vanderbilt 58%). Florida NET #4 vs Vandy #15, AdjEM ~+33.8 (#4) vs ~+22-25 (#12), BPI top-7 both ends. Vandy's 91-74 SEC Tourney blowout is the counter — Tanner (20 pts, 8 ast, 8-10 FG) and 10-21 3PT shooting exposed Florida's perimeter defense. But season series split 1-1 (Florida won 98-94 at Vandy in January), and Vandy's 133rd-ranked defense (104.9 DRtg) is a structural liability if Florida cleans up turnovers (16 TO in SEC loss vs 10.3 avg). No roster changes trigger recency override. Vandy is under-seeded (KenPom #12, arguably a 3-seed) — this is a legitimate upset threat, not a typical 1-vs-5.",
+      "agent_picks": {
+        "statistical": { "pick": "Florida", "confidence_pct": 63 },
+        "matchup": { "pick": "Vanderbilt", "confidence_pct": 58 },
+        "recency": { "pick": "Florida", "confidence_pct": 58 },
+        "historical": { "pick": "Florida", "confidence_pct": 62 }
+      }
+    },
+    {
+      "game_number": 4,
+      "region": "South",
+      "team_a": { "name": "Illinois", "seed": 3 },
+      "team_b": { "name": "Houston", "seed": 2 },
+      "winner": "Houston",
+      "confidence_pct": 65,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Houston's #5 DRtg (90.2, 62.9 PPG allowed) is purpose-built to suppress Illinois's historic #1 AdjOE (131.3). Houston's elite guard trio (Flemings 16.4/5.3, Uzan, Sharp) directly targets Illinois's documented weakness against top perimeter players. Near-home-court at Toyota Center. Sampson 31-21 in tourney (3 Final Fours) vs Underwood 8-9. Houston Q1 7-5 vs Illinois Q1 7-8. Illinois's OREB rate (38.7%, #3) and Wagler (17.9 PPG, 40.2% 3PT) are the upset levers — Illinois has the highest 'Kill Shot' rating in the field per EvanMiya — but their defense outside top-25 provides no safety net if the offense stalls.",
+      "agent_picks": {
+        "statistical": { "pick": "Houston", "confidence_pct": 62 },
+        "matchup": { "pick": "Houston", "confidence_pct": 64 },
+        "recency": { "pick": "Houston", "confidence_pct": 64 },
+        "historical": { "pick": "Houston", "confidence_pct": 68 }
+      }
+    },
+    {
+      "game_number": 5,
+      "region": "West",
+      "team_a": { "name": "Arizona", "seed": 1 },
+      "team_b": { "name": "Arkansas", "seed": 4 },
+      "winner": "Arizona",
+      "confidence_pct": 68,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Arizona KenPom #2 (AdjEM +37.66) vs Arkansas ~#15 — ~24-point efficiency gap, largest in any Sweet 16 matchup. Arizona's elite defense (DRtg 96.1, #10; 43.8% opp 2PT, best among high majors) exploits Arkansas's worst-in-Sweet-16 defense (DRtg 109.1, #230). Knox OUT removes Arkansas's best two-way wing. Arizona +10.8 rebound margin (#3) controls tempo against Arkansas's fast pace (70.1 poss/game). Acuff (22.9 PPG, SEC Tourney MVP 30.3 PPG) and #1 national TO rate are legitimate upset levers. Lloyd's 0-3 Sweet 16 record and Calipari's .721 tourney record add historical tension.",
+      "agent_picks": {
+        "statistical": { "pick": "Arizona", "confidence_pct": 78 },
+        "matchup": { "pick": "Arizona", "confidence_pct": 68 },
+        "recency": { "pick": "Arizona", "confidence_pct": 62 },
+        "historical": { "pick": "Arizona", "confidence_pct": 62 }
+      }
+    },
+    {
+      "game_number": 6,
+      "region": "West",
+      "team_a": { "name": "Gonzaga", "seed": 3 },
+      "team_b": { "name": "Purdue", "seed": 2 },
+      "winner": "Purdue",
+      "confidence_pct": 63,
+      "consensus_type": "split",
+      "upset": false,
+      "deciding_factor": "Statistical tiebreaker — data agents split (Statistical: Purdue 64%, Matchup: Gonzaga 58%). Purdue #1-2 ORtg nationally with Smith (14/9.1 APG, 40.4% 3PT Big Ten) and Cluff (69.8% 2PT, #1 individual ORtg). Purdue 4-0 all-time vs Gonzaga including 80-68 Sweet 16 win in 2024 — all by double digits. Huff OUT (kneecap) removes Gonzaga's #2 interior weapon. Matchup analyst dissents: Gonzaga's #1 paint dominance (44.7 scored/25.1 allowed) maps onto Purdue's 342nd-ranked rim defense — Ike (19.7/8.2, 57.3% FG) is a matchup nightmare. But Huff's absence and Purdue's offensive ceiling break the tie.",
+      "agent_picks": {
+        "statistical": { "pick": "Purdue", "confidence_pct": 64 },
+        "matchup": { "pick": "Gonzaga", "confidence_pct": 58 },
+        "recency": { "pick": "Purdue", "confidence_pct": 65 },
+        "historical": { "pick": "Purdue", "confidence_pct": 64 }
+      }
+    },
+    {
+      "game_number": 7,
+      "region": "Midwest",
+      "team_a": { "name": "Michigan", "seed": 1 },
+      "team_b": { "name": "Akron", "seed": 12 },
+      "winner": "Michigan",
+      "confidence_pct": 81,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Michigan SRS #1 (38.53), DRtg 87.3 (#1 nationally), 31-3 with nation's best frontcourt (Mara 7-2, Lendeborg Big Ten POY, Johnson). 1-vs-12 in Sweet 16 is historically near-zero for the 12-seed. Akron's elite offense (89.9 PPG, eFG% #8, three 40%+ 3PT shooters) is their primary weapon but built against MAC defenses — Michigan's #1 D is a massive step up. Akron's Cinderella run is real (beat Alabama after Holloway suspension) but the talent/depth gap is the widest in the Sweet 16. Cason OUT (torn ACL) reduces Michigan's bench depth; Lendeborg health flagged but not confirmed limited.",
+      "agent_picks": {
+        "statistical": { "pick": "Michigan", "confidence_pct": 82 },
+        "matchup": { "pick": "Michigan", "confidence_pct": 78 },
+        "recency": { "pick": "Michigan", "confidence_pct": 74 },
+        "historical": { "pick": "Michigan", "confidence_pct": 91 }
+      }
+    },
+    {
+      "game_number": 8,
+      "region": "Midwest",
+      "team_a": { "name": "Virginia", "seed": 3 },
+      "team_b": { "name": "Iowa State", "seed": 2 },
+      "winner": "Iowa State",
+      "confidence_pct": 67,
+      "consensus_type": "unanimous",
+      "upset": false,
+      "deciding_factor": "Iowa State NET #6, BPI #6 vs Virginia NET #13, BPI ~#23 — clear efficiency edge. ISU's pressure D forces TOs on 21.9% of possessions (#4 nationally) against Virginia's deliberate half-court offense that hasn't faced this caliber of pressure. ISU demolished ASU 91-42 (23 forced TOs) in peak form. Momcilovic 49.6% 3PT stretches Onyenso away from paint, neutralizing UVA's #1 shot-blocking. Virginia under first-year coach Odom (Bennett retired) is in transition — 29-5 is real but institutional tournament pedigree belongs to prior staff. Lipsey groin tweak trending positive. UVA's Pack Line D and Onyenso (3.0 BPG) are the counter — ISU lost to Arizona when opponent shot 55%.",
+      "agent_picks": {
+        "statistical": { "pick": "Iowa State", "confidence_pct": 65 },
+        "matchup": { "pick": "Iowa State", "confidence_pct": 62 },
+        "recency": { "pick": "Iowa State", "confidence_pct": 74 },
+        "historical": { "pick": "Iowa State", "confidence_pct": 65 }
+      }
+    }
+  ]
+}
