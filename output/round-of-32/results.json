@@ -1,0 +1,339 @@
+{
+  "round": "round-of-32",
+  "last_updated": "2026-03-23",
+  "status": "COMPLETE",
+  "games_completed": 16,
+  "games_remaining": 0,
+  "record": "11-5",
+  "notes": "8 of 16 actual matchups differed from projected matchups due to R64 upsets. Picks evaluated on whether the engine correctly identified the advancing team.",
+  "results": [
+    {
+      "game_number": 1,
+      "region": "East",
+      "team_a": { "name": "Duke", "seed": 1 },
+      "team_b": { "name": "TCU", "seed": 9 },
+      "projected_opponent": "Ohio State",
+      "predicted_winner": "Duke",
+      "actual_winner": "Duke",
+      "actual_score": "81-58",
+      "correct": true,
+      "predicted_confidence_pct": 84,
+      "consensus_type": "unanimous",
+      "upset_occurred": false,
+      "upset_predicted": false,
+      "agent_picks": {
+        "statistical": { "pick": "Duke", "correct": true },
+        "matchup": { "pick": "Duke", "correct": true },
+        "recency": { "pick": "Duke", "correct": true },
+        "historical": { "pick": "Duke", "correct": true }
+      }
+    },
+    {
+      "game_number": 2,
+      "region": "East",
+      "team_a": { "name": "St. John's", "seed": 5 },
+      "team_b": { "name": "Kansas", "seed": 4 },
+      "predicted_winner": "St. John's",
+      "actual_winner": "St. John's",
+      "actual_score": "67-65",
+      "correct": true,
+      "predicted_confidence_pct": 60,
+      "consensus_type": "unanimous",
+      "upset_occurred": true,
+      "upset_predicted": true,
+      "agent_picks": {
+        "statistical": { "pick": "St. John's", "correct": true },
+        "matchup": { "pick": "St. John's", "correct": true },
+        "recency": { "pick": "St. John's", "correct": true },
+        "historical": { "pick": "St. John's", "correct": true }
+      }
+    },
+    {
+      "game_number": 3,
+      "region": "East",
+      "team_a": { "name": "Louisville", "seed": 6 },
+      "team_b": { "name": "Michigan State", "seed": 3 },
+      "projected_opponent": "South Florida",
+      "predicted_winner": "Michigan State",
+      "actual_winner": "Michigan State",
+      "actual_score": "77-69",
+      "correct": true,
+      "predicted_confidence_pct": 71,
+      "consensus_type": "unanimous",
+      "upset_occurred": false,
+      "upset_predicted": false,
+      "agent_picks": {
+        "statistical": { "pick": "Michigan State", "correct": true },
+        "matchup": { "pick": "Michigan State", "correct": true },
+        "recency": { "pick": "Michigan State", "correct": true },
+        "historical": { "pick": "Michigan State", "correct": true }
+      }
+    },
+    {
+      "game_number": 4,
+      "region": "East",
+      "team_a": { "name": "UCLA", "seed": 7 },
+      "team_b": { "name": "UConn", "seed": 2 },
+      "predicted_winner": "UConn",
+      "actual_winner": "UConn",
+      "actual_score": "73-57",
+      "correct": true,
+      "predicted_confidence_pct": 68,
+      "consensus_type": "split",
+      "upset_occurred": false,
+      "upset_predicted": false,
+      "agent_picks": {
+        "statistical": { "pick": "UConn", "correct": true },
+        "matchup": { "pick": "UCLA", "correct": false },
+        "recency": { "pick": "UConn", "correct": true },
+        "historical": { "pick": "UConn", "correct": true }
+      }
+    },
+    {
+      "game_number": 5,
+      "region": "South",
+      "team_a": { "name": "Florida", "seed": 1 },
+      "team_b": { "name": "Iowa", "seed": 9 },
+      "predicted_winner": "Florida",
+      "actual_winner": "Iowa",
+      "actual_score": "73-72",
+      "correct": false,
+      "predicted_confidence_pct": 83,
+      "consensus_type": "unanimous",
+      "upset_occurred": true,
+      "upset_predicted": false,
+      "agent_picks": {
+        "statistical": { "pick": "Florida", "correct": false },
+        "matchup": { "pick": "Florida", "correct": false },
+        "recency": { "pick": "Florida", "correct": false },
+        "historical": { "pick": "Florida", "correct": false }
+      }
+    },
+    {
+      "game_number": 6,
+      "region": "South",
+      "team_a": { "name": "Vanderbilt", "seed": 5 },
+      "team_b": { "name": "Nebraska", "seed": 4 },
+      "predicted_winner": "Vanderbilt",
+      "actual_winner": "Nebraska",
+      "actual_score": "74-72",
+      "correct": false,
+      "predicted_confidence_pct": 59,
+      "consensus_type": "unanimous",
+      "upset_occurred": false,
+      "upset_predicted": true,
+      "agent_picks": {
+        "statistical": { "pick": "Vanderbilt", "correct": false },
+        "matchup": { "pick": "Vanderbilt", "correct": false },
+        "recency": { "pick": "Vanderbilt", "correct": false },
+        "historical": { "pick": "Vanderbilt", "correct": false }
+      }
+    },
+    {
+      "game_number": 7,
+      "region": "South",
+      "team_a": { "name": "VCU", "seed": 11 },
+      "team_b": { "name": "Illinois", "seed": 3 },
+      "predicted_winner": "Illinois",
+      "actual_winner": "Illinois",
+      "actual_score": "76-55",
+      "correct": true,
+      "predicted_confidence_pct": 64,
+      "consensus_type": "unanimous",
+      "upset_occurred": false,
+      "upset_predicted": false,
+      "agent_picks": {
+        "statistical": { "pick": "Illinois", "correct": true },
+        "matchup": { "pick": "Illinois", "correct": true },
+        "recency": { "pick": "Illinois", "correct": true },
+        "historical": { "pick": "Illinois", "correct": true }
+      }
+    },
+    {
+      "game_number": 8,
+      "region": "South",
+      "team_a": { "name": "Texas A&M", "seed": 10 },
+      "team_b": { "name": "Houston", "seed": 2 },
+      "projected_opponent": "Saint Mary's",
+      "predicted_winner": "Houston",
+      "actual_winner": "Houston",
+      "actual_score": "88-57",
+      "correct": true,
+      "predicted_confidence_pct": 71,
+      "consensus_type": "unanimous",
+      "upset_occurred": false,
+      "upset_predicted": false,
+      "agent_picks": {
+        "statistical": { "pick": "Houston", "correct": true },
+        "matchup": { "pick": "Houston", "correct": true },
+        "recency": { "pick": "Houston", "correct": true },
+        "historical": { "pick": "Houston", "correct": true }
+      }
+    },
+    {
+      "game_number": 9,
+      "region": "West",
+      "team_a": { "name": "Arizona", "seed": 1 },
+      "team_b": { "name": "Utah State", "seed": 9 },
+      "predicted_winner": "Arizona",
+      "actual_winner": "Arizona",
+      "actual_score": "78-66",
+      "correct": true,
+      "predicted_confidence_pct": 79,
+      "consensus_type": "unanimous",
+      "upset_occurred": false,
+      "upset_predicted": false,
+      "agent_picks": {
+        "statistical": { "pick": "Arizona", "correct": true },
+        "matchup": { "pick": "Arizona", "correct": true },
+        "recency": { "pick": "Arizona", "correct": true },
+        "historical": { "pick": "Arizona", "correct": true }
+      }
+    },
+    {
+      "game_number": 10,
+      "region": "West",
+      "team_a": { "name": "High Point", "seed": 12 },
+      "team_b": { "name": "Arkansas", "seed": 4 },
+      "projected_opponent": "Wisconsin",
+      "predicted_winner": "Arkansas",
+      "actual_winner": "Arkansas",
+      "actual_score": "94-88",
+      "correct": true,
+      "predicted_confidence_pct": 57,
+      "consensus_type": "split",
+      "upset_occurred": false,
+      "upset_predicted": false,
+      "agent_picks": {
+        "statistical": { "pick": "Arkansas", "correct": true },
+        "matchup": { "pick": "Wisconsin", "correct": false },
+        "recency": { "pick": "Wisconsin", "correct": false },
+        "historical": { "pick": "Arkansas", "correct": true }
+      }
+    },
+    {
+      "game_number": 11,
+      "region": "West",
+      "team_a": { "name": "Texas", "seed": 11 },
+      "team_b": { "name": "Gonzaga", "seed": 3 },
+      "projected_opponent": "BYU",
+      "predicted_winner": "Gonzaga",
+      "actual_winner": "Texas",
+      "actual_score": "74-68",
+      "correct": false,
+      "predicted_confidence_pct": 66,
+      "consensus_type": "unanimous",
+      "upset_occurred": true,
+      "upset_predicted": false,
+      "agent_picks": {
+        "statistical": { "pick": "Gonzaga", "correct": false },
+        "matchup": { "pick": "Gonzaga", "correct": false },
+        "recency": { "pick": "Gonzaga", "correct": false },
+        "historical": { "pick": "Gonzaga", "correct": false }
+      }
+    },
+    {
+      "game_number": 12,
+      "region": "West",
+      "team_a": { "name": "Miami", "seed": 7 },
+      "team_b": { "name": "Purdue", "seed": 2 },
+      "projected_opponent": "Missouri",
+      "predicted_winner": "Purdue",
+      "actual_winner": "Purdue",
+      "actual_score": "79-69",
+      "correct": true,
+      "predicted_confidence_pct": 69,
+      "consensus_type": "unanimous",
+      "upset_occurred": false,
+      "upset_predicted": false,
+      "agent_picks": {
+        "statistical": { "pick": "Purdue", "correct": true },
+        "matchup": { "pick": "Purdue", "correct": true },
+        "recency": { "pick": "Purdue", "correct": true },
+        "historical": { "pick": "Purdue", "correct": true }
+      }
+    },
+    {
+      "game_number": 13,
+      "region": "Midwest",
+      "team_a": { "name": "Michigan", "seed": 1 },
+      "team_b": { "name": "Saint Louis", "seed": 9 },
+      "predicted_winner": "Michigan",
+      "actual_winner": "Michigan",
+      "actual_score": "95-72",
+      "correct": true,
+      "predicted_confidence_pct": 81,
+      "consensus_type": "unanimous",
+      "upset_occurred": false,
+      "upset_predicted": false,
+      "agent_picks": {
+        "statistical": { "pick": "Michigan", "correct": true },
+        "matchup": { "pick": "Michigan", "correct": true },
+        "recency": { "pick": "Michigan", "correct": true },
+        "historical": { "pick": "Michigan", "correct": true }
+      }
+    },
+    {
+      "game_number": 14,
+      "region": "Midwest",
+      "team_a": { "name": "Texas Tech", "seed": 5 },
+      "team_b": { "name": "Alabama", "seed": 4 },
+      "projected_opponent": "Akron",
+      "predicted_winner": "Akron",
+      "actual_winner": "Alabama",
+      "actual_score": "90-65",
+      "correct": false,
+      "predicted_confidence_pct": 56,
+      "consensus_type": "recency_override",
+      "upset_occurred": false,
+      "upset_predicted": true,
+      "agent_picks": {
+        "statistical": { "pick": "Akron", "correct": false },
+        "matchup": { "pick": "Alabama", "correct": true },
+        "recency": { "pick": "Akron", "correct": false },
+        "historical": { "pick": "Alabama", "correct": true }
+      }
+    },
+    {
+      "game_number": 15,
+      "region": "Midwest",
+      "team_a": { "name": "Tennessee", "seed": 6 },
+      "team_b": { "name": "Virginia", "seed": 3 },
+      "predicted_winner": "Virginia",
+      "actual_winner": "Tennessee",
+      "actual_score": "79-72",
+      "correct": false,
+      "predicted_confidence_pct": 61,
+      "consensus_type": "unanimous",
+      "upset_occurred": true,
+      "upset_predicted": false,
+      "agent_picks": {
+        "statistical": { "pick": "Virginia", "correct": false },
+        "matchup": { "pick": "Virginia", "correct": false },
+        "recency": { "pick": "Virginia", "correct": false },
+        "historical": { "pick": "Virginia", "correct": false }
+      }
+    },
+    {
+      "game_number": 16,
+      "region": "Midwest",
+      "team_a": { "name": "Kentucky", "seed": 7 },
+      "team_b": { "name": "Iowa State", "seed": 2 },
+      "projected_opponent": "Santa Clara",
+      "predicted_winner": "Iowa State",
+      "actual_winner": "Iowa State",
+      "actual_score": "82-63",
+      "correct": true,
+      "predicted_confidence_pct": 79,
+      "consensus_type": "unanimous",
+      "upset_occurred": false,
+      "upset_predicted": false,
+      "agent_picks": {
+        "statistical": { "pick": "Iowa State", "correct": true },
+        "matchup": { "pick": "Iowa State", "correct": true },
+        "recency": { "pick": "Iowa State", "correct": true },
+        "historical": { "pick": "Iowa State", "correct": true }
+      }
+    }
+  ]
+}
