@@ -1,10 +1,10 @@
 {
   "round": "championship",
   "total_games": 1,
-  "completed_games": 1,
-  "status": "complete",
+  "completed_games": 0,
+  "status": "pending",
   "games": [
-    { "game_number": 1, "matchup": "Duke vs Arizona", "status": "complete", "winner": "Duke" }
+    { "game_number": 1, "matchup": "TBD vs TBD", "status": "pending", "winner": null }
   ],
   "next_matchup": null
 }

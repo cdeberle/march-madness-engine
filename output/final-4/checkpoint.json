@@ -1,11 +1,11 @@
 {
   "round": "final-4",
   "total_games": 2,
-  "completed_games": 2,
-  "status": "complete",
+  "completed_games": 0,
+  "status": "pending",
   "games": [
-    { "game_number": 1, "matchup": "Duke vs Houston", "status": "complete", "winner": "Duke" },
-    { "game_number": 2, "matchup": "Arizona vs Michigan", "status": "complete", "winner": "Arizona" }
+    { "game_number": 1, "matchup": "UConn (2) vs Illinois (3)", "status": "pending", "winner": null },
+    { "game_number": 2, "matchup": "Arizona (1) vs Michigan (1)", "status": "pending", "winner": null }
   ],
-  "next_matchup": null
+  "next_matchup": "UConn (2) vs Illinois (3)"
 }
