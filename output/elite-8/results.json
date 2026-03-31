@@ -1,0 +1,95 @@
+{
+  "round": "elite-8",
+  "last_updated": "2026-03-31",
+  "status": "COMPLETE",
+  "games_completed": 4,
+  "games_remaining": 0,
+  "record": "2-2",
+  "notes": "2 of 4 actual matchups differed from projected. South: engine projected Florida (1) vs Houston (2), actual was Illinois (3) vs Iowa (9) — both projected teams eliminated. Midwest: engine projected Michigan (1) vs Iowa State (2), actual was Michigan (1) vs Tennessee (6) — Iowa State eliminated in S16. Picks evaluated on whether the engine correctly identified the advancing team.",
+  "results": [
+    {
+      "game_number": 1,
+      "region": "East",
+      "team_a": { "name": "Duke", "seed": 1 },
+      "team_b": { "name": "UConn", "seed": 2 },
+      "predicted_winner": "Duke",
+      "actual_winner": "UConn",
+      "actual_score": "73-72",
+      "correct": false,
+      "predicted_confidence_pct": 64,
+      "consensus_type": "unanimous",
+      "upset_occurred": true,
+      "upset_predicted": false,
+      "agent_picks": {
+        "statistical": { "pick": "Duke", "correct": false },
+        "matchup": { "pick": "Duke", "correct": false },
+        "recency": { "pick": "Duke", "correct": false },
+        "historical": { "pick": "Duke", "correct": false }
+      }
+    },
+    {
+      "game_number": 2,
+      "region": "South",
+      "team_a": { "name": "Illinois", "seed": 3 },
+      "team_b": { "name": "Iowa", "seed": 9 },
+      "projected_matchup": "Florida (1) vs Houston (2)",
+      "predicted_winner": "Houston",
+      "actual_winner": "Illinois",
+      "actual_score": "71-59",
+      "correct": false,
+      "predicted_confidence_pct": 57,
+      "consensus_type": "split",
+      "upset_occurred": false,
+      "upset_predicted": false,
+      "structural_miss": true,
+      "structural_miss_reason": "Both projected teams (Florida, Houston) were eliminated in earlier rounds. Engine had no analysis for Illinois vs Iowa.",
+      "agent_picks": {
+        "statistical": { "pick": "Houston", "correct": false },
+        "matchup": { "pick": "Florida", "correct": false },
+        "recency": { "pick": "Houston", "correct": false },
+        "historical": { "pick": "Florida", "correct": false }
+      }
+    },
+    {
+      "game_number": 3,
+      "region": "West",
+      "team_a": { "name": "Arizona", "seed": 1 },
+      "team_b": { "name": "Purdue", "seed": 2 },
+      "predicted_winner": "Arizona",
+      "actual_winner": "Arizona",
+      "actual_score": "79-64",
+      "correct": true,
+      "predicted_confidence_pct": 66,
+      "consensus_type": "unanimous",
+      "upset_occurred": false,
+      "upset_predicted": false,
+      "agent_picks": {
+        "statistical": { "pick": "Arizona", "correct": true },
+        "matchup": { "pick": "Arizona", "correct": true },
+        "recency": { "pick": "Arizona", "correct": true },
+        "historical": { "pick": "Arizona", "correct": true }
+      }
+    },
+    {
+      "game_number": 4,
+      "region": "Midwest",
+      "team_a": { "name": "Michigan", "seed": 1 },
+      "team_b": { "name": "Tennessee", "seed": 6 },
+      "projected_opponent": "Iowa State",
+      "predicted_winner": "Michigan",
+      "actual_winner": "Michigan",
+      "actual_score": "95-62",
+      "correct": true,
+      "predicted_confidence_pct": 62,
+      "consensus_type": "majority",
+      "upset_occurred": false,
+      "upset_predicted": false,
+      "agent_picks": {
+        "statistical": { "pick": "Michigan", "correct": true },
+        "matchup": { "pick": "Michigan", "correct": true },
+        "recency": { "pick": "Michigan", "correct": true },
+        "historical": { "pick": "Iowa State", "correct": false }
+      }
+    }
+  ]
+}

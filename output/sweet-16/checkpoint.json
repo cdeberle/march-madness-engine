@@ -5,12 +5,12 @@
   "games": [
     { "game_number": 1, "region": "East", "team_a": "Duke", "seed_a": 1, "team_b": "St. John's", "seed_b": 5, "status": "completed", "winner": "Duke" },
     { "game_number": 2, "region": "East", "team_a": "Michigan State", "seed_a": 3, "team_b": "UConn", "seed_b": 2, "status": "completed", "winner": "UConn" },
-    { "game_number": 3, "region": "South", "team_a": "Florida", "seed_a": 1, "team_b": "Vanderbilt", "seed_b": 5, "status": "completed", "winner": "Florida" },
-    { "game_number": 4, "region": "South", "team_a": "Illinois", "seed_a": 3, "team_b": "Houston", "seed_b": 2, "status": "completed", "winner": "Houston" },
+    { "game_number": 3, "region": "South", "team_a": "Iowa", "seed_a": 9, "team_b": "Nebraska", "seed_b": 4, "status": "completed", "winner": "Iowa" },
+    { "game_number": 4, "region": "South", "team_a": "Illinois", "seed_a": 3, "team_b": "Houston", "seed_b": 2, "status": "completed", "winner": "Illinois" },
     { "game_number": 5, "region": "West", "team_a": "Arizona", "seed_a": 1, "team_b": "Arkansas", "seed_b": 4, "status": "completed", "winner": "Arizona" },
-    { "game_number": 6, "region": "West", "team_a": "Gonzaga", "seed_a": 3, "team_b": "Purdue", "seed_b": 2, "status": "completed", "winner": "Purdue" },
-    { "game_number": 7, "region": "Midwest", "team_a": "Michigan", "seed_a": 1, "team_b": "Akron", "seed_b": 12, "status": "completed", "winner": "Michigan" },
-    { "game_number": 8, "region": "Midwest", "team_a": "Virginia", "seed_a": 3, "team_b": "Iowa State", "seed_b": 2, "status": "completed", "winner": "Iowa State" }
+    { "game_number": 6, "region": "West", "team_a": "Purdue", "seed_a": 2, "team_b": "Texas", "seed_b": 11, "status": "completed", "winner": "Purdue" },
+    { "game_number": 7, "region": "Midwest", "team_a": "Michigan", "seed_a": 1, "team_b": "Alabama", "seed_b": 4, "status": "completed", "winner": "Michigan" },
+    { "game_number": 8, "region": "Midwest", "team_a": "Tennessee", "seed_a": 6, "team_b": "Iowa State", "seed_b": 2, "status": "completed", "winner": "Tennessee" }
   ],
   "next_game": null
 }

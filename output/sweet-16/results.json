@@ -1,0 +1,177 @@
+{
+  "round": "sweet-16",
+  "last_updated": "2026-03-31",
+  "status": "COMPLETE",
+  "games_completed": 8,
+  "games_remaining": 0,
+  "record": "5-3",
+  "notes": "3 of 8 actual matchups differed from projected matchups due to earlier upsets (Texas replaced Gonzaga, Alabama replaced Akron, Tennessee replaced Virginia). 1 matchup was completely invalidated — engine projected Florida (1) vs Vanderbilt (5), actual was Iowa (9) vs Nebraska (4) after both projected teams lost in R32. Picks evaluated on whether the engine correctly identified the advancing team.",
+  "results": [
+    {
+      "game_number": 1,
+      "region": "East",
+      "team_a": { "name": "Duke", "seed": 1 },
+      "team_b": { "name": "St. John's", "seed": 5 },
+      "predicted_winner": "Duke",
+      "actual_winner": "Duke",
+      "actual_score": "80-75",
+      "correct": true,
+      "predicted_confidence_pct": 72,
+      "consensus_type": "unanimous",
+      "upset_occurred": false,
+      "upset_predicted": false,
+      "agent_picks": {
+        "statistical": { "pick": "Duke", "correct": true },
+        "matchup": { "pick": "Duke", "correct": true },
+        "recency": { "pick": "Duke", "correct": true },
+        "historical": { "pick": "Duke", "correct": true }
+      }
+    },
+    {
+      "game_number": 2,
+      "region": "East",
+      "team_a": { "name": "Michigan State", "seed": 3 },
+      "team_b": { "name": "UConn", "seed": 2 },
+      "predicted_winner": "UConn",
+      "actual_winner": "UConn",
+      "actual_score": "67-63",
+      "correct": true,
+      "predicted_confidence_pct": 57,
+      "consensus_type": "protocol_override",
+      "upset_occurred": false,
+      "upset_predicted": false,
+      "agent_picks": {
+        "statistical": { "pick": "Michigan State", "correct": false },
+        "matchup": { "pick": "UConn", "correct": true },
+        "recency": { "pick": "UConn", "correct": true },
+        "historical": { "pick": "UConn", "correct": true }
+      }
+    },
+    {
+      "game_number": 3,
+      "region": "South",
+      "team_a": { "name": "Iowa", "seed": 9 },
+      "team_b": { "name": "Nebraska", "seed": 4 },
+      "projected_matchup": "Florida (1) vs Vanderbilt (5)",
+      "predicted_winner": "Florida",
+      "actual_winner": "Iowa",
+      "actual_score": "77-71",
+      "correct": false,
+      "predicted_confidence_pct": 62,
+      "consensus_type": "split",
+      "upset_occurred": true,
+      "upset_predicted": false,
+      "structural_miss": true,
+      "structural_miss_reason": "Both projected teams (Florida, Vanderbilt) were eliminated in R32. Engine had no analysis for Iowa vs Nebraska.",
+      "agent_picks": {
+        "statistical": { "pick": "Florida", "correct": false },
+        "matchup": { "pick": "Vanderbilt", "correct": false },
+        "recency": { "pick": "Florida", "correct": false },
+        "historical": { "pick": "Florida", "correct": false }
+      }
+    },
+    {
+      "game_number": 4,
+      "region": "South",
+      "team_a": { "name": "Illinois", "seed": 3 },
+      "team_b": { "name": "Houston", "seed": 2 },
+      "predicted_winner": "Houston",
+      "actual_winner": "Illinois",
+      "actual_score": "65-55",
+      "correct": false,
+      "predicted_confidence_pct": 65,
+      "consensus_type": "unanimous",
+      "upset_occurred": true,
+      "upset_predicted": false,
+      "agent_picks": {
+        "statistical": { "pick": "Houston", "correct": false },
+        "matchup": { "pick": "Houston", "correct": false },
+        "recency": { "pick": "Houston", "correct": false },
+        "historical": { "pick": "Houston", "correct": false }
+      }
+    },
+    {
+      "game_number": 5,
+      "region": "West",
+      "team_a": { "name": "Arizona", "seed": 1 },
+      "team_b": { "name": "Arkansas", "seed": 4 },
+      "predicted_winner": "Arizona",
+      "actual_winner": "Arizona",
+      "actual_score": "109-88",
+      "correct": true,
+      "predicted_confidence_pct": 68,
+      "consensus_type": "unanimous",
+      "upset_occurred": false,
+      "upset_predicted": false,
+      "agent_picks": {
+        "statistical": { "pick": "Arizona", "correct": true },
+        "matchup": { "pick": "Arizona", "correct": true },
+        "recency": { "pick": "Arizona", "correct": true },
+        "historical": { "pick": "Arizona", "correct": true }
+      }
+    },
+    {
+      "game_number": 6,
+      "region": "West",
+      "team_a": { "name": "Purdue", "seed": 2 },
+      "team_b": { "name": "Texas", "seed": 11 },
+      "projected_opponent": "Gonzaga",
+      "predicted_winner": "Purdue",
+      "actual_winner": "Purdue",
+      "actual_score": "79-77",
+      "correct": true,
+      "predicted_confidence_pct": 63,
+      "consensus_type": "split",
+      "upset_occurred": false,
+      "upset_predicted": false,
+      "agent_picks": {
+        "statistical": { "pick": "Purdue", "correct": true },
+        "matchup": { "pick": "Gonzaga", "correct": false },
+        "recency": { "pick": "Purdue", "correct": true },
+        "historical": { "pick": "Purdue", "correct": true }
+      }
+    },
+    {
+      "game_number": 7,
+      "region": "Midwest",
+      "team_a": { "name": "Michigan", "seed": 1 },
+      "team_b": { "name": "Alabama", "seed": 4 },
+      "projected_opponent": "Akron",
+      "predicted_winner": "Michigan",
+      "actual_winner": "Michigan",
+      "actual_score": "90-77",
+      "correct": true,
+      "predicted_confidence_pct": 81,
+      "consensus_type": "unanimous",
+      "upset_occurred": false,
+      "upset_predicted": false,
+      "agent_picks": {
+        "statistical": { "pick": "Michigan", "correct": true },
+        "matchup": { "pick": "Michigan", "correct": true },
+        "recency": { "pick": "Michigan", "correct": true },
+        "historical": { "pick": "Michigan", "correct": true }
+      }
+    },
+    {
+      "game_number": 8,
+      "region": "Midwest",
+      "team_a": { "name": "Tennessee", "seed": 6 },
+      "team_b": { "name": "Iowa State", "seed": 2 },
+      "projected_opponent": "Virginia",
+      "predicted_winner": "Iowa State",
+      "actual_winner": "Tennessee",
+      "actual_score": "76-62",
+      "correct": false,
+      "predicted_confidence_pct": 67,
+      "consensus_type": "unanimous",
+      "upset_occurred": true,
+      "upset_predicted": false,
+      "agent_picks": {
+        "statistical": { "pick": "Iowa State", "correct": false },
+        "matchup": { "pick": "Iowa State", "correct": false },
+        "recency": { "pick": "Iowa State", "correct": false },
+        "historical": { "pick": "Iowa State", "correct": false }
+      }
+    }
+  ]
+}
