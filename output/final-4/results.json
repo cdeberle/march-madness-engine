@@ -1,0 +1,54 @@
+{
+  "round": "final-4",
+  "last_updated": "2026-04-06",
+  "status": "COMPLETE",
+  "games_completed": 2,
+  "games_remaining": 0,
+  "record": "0-2",
+  "notes": "Game 1 was a structural miss — engine projected Duke (1) vs Houston (2), actual was UConn (2) vs Illinois (3). Both projected teams were eliminated in the Elite 8. Game 2 matchup was correctly projected (Arizona vs Michigan) but the engine picked the wrong winner.",
+  "results": [
+    {
+      "game_number": 1,
+      "region": "East vs South",
+      "team_a": { "name": "UConn", "seed": 2 },
+      "team_b": { "name": "Illinois", "seed": 3 },
+      "projected_matchup": "Duke (1) vs Houston (2)",
+      "predicted_winner": "Duke",
+      "actual_winner": "UConn",
+      "actual_score": "71-62",
+      "correct": false,
+      "predicted_confidence_pct": 61,
+      "consensus_type": "majority",
+      "upset_occurred": false,
+      "upset_predicted": false,
+      "structural_miss": true,
+      "structural_miss_reason": "Both projected teams (Duke, Houston) were eliminated in the Elite 8. Duke lost to UConn 73-72 on a 35-foot three with 0.4 seconds left. Houston was eliminated in Sweet 16 by Illinois. Engine had no analysis for UConn vs Illinois.",
+      "agent_picks": {
+        "statistical": { "pick": "Duke", "correct": false },
+        "matchup": { "pick": "Duke", "correct": false },
+        "recency": { "pick": "Duke", "correct": false },
+        "historical": { "pick": "Houston", "correct": false }
+      }
+    },
+    {
+      "game_number": 2,
+      "region": "West vs Midwest",
+      "team_a": { "name": "Arizona", "seed": 1 },
+      "team_b": { "name": "Michigan", "seed": 1 },
+      "predicted_winner": "Arizona",
+      "actual_winner": "Michigan",
+      "actual_score": "91-73",
+      "correct": false,
+      "predicted_confidence_pct": 57,
+      "consensus_type": "split",
+      "upset_occurred": false,
+      "upset_predicted": false,
+      "agent_picks": {
+        "statistical": { "pick": "Arizona", "correct": false },
+        "matchup": { "pick": "Michigan", "correct": true },
+        "recency": { "pick": "Arizona", "correct": false },
+        "historical": { "pick": "Michigan", "correct": true }
+      }
+    }
+  ]
+}
