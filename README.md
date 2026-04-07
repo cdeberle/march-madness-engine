@@ -1,4 +1,4 @@
-# March Madness Analysis Engine
+# March Madness Analysis Engine v2026
 
 A multi-agent bracket analysis framework built entirely in Claude Code. Four specialist AI analysts independently research every NCAA tournament matchup, then a structured debate protocol synthesizes their findings into statistically-justified picks — with explicit rules designed to minimize the biases that plague both human and AI bracket predictions.
 
