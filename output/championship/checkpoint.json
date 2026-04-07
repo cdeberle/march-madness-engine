@@ -1,10 +1,10 @@
 {
   "round": "championship",
   "total_games": 1,
-  "completed_games": 0,
-  "status": "pending",
+  "completed_games": 1,
+  "status": "COMPLETE",
   "games": [
-    { "game_number": 1, "matchup": "TBD vs TBD", "status": "pending", "winner": null }
+    { "game_number": 1, "matchup": "Michigan (1) vs UConn (2)", "status": "complete", "winner": "Michigan", "score": "69-63" }
   ],
   "next_matchup": null
 }
