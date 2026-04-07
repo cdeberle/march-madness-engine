@@ -1,0 +1,34 @@
+{
+  "round": "championship",
+  "last_updated": "2026-04-07",
+  "status": "COMPLETE",
+  "games_completed": 1,
+  "games_remaining": 0,
+  "record": "0-1",
+  "notes": "Structural miss — engine projected Duke (1) vs Arizona (1), actual was Michigan (1) vs UConn (2). Neither projected finalist made the title game. Duke eliminated by UConn in E8, Arizona eliminated by Michigan in F4.",
+  "results": [
+    {
+      "game_number": 1,
+      "region": "East/South vs West/Midwest",
+      "team_a": { "name": "Michigan", "seed": 1 },
+      "team_b": { "name": "UConn", "seed": 2 },
+      "projected_matchup": "Duke (1) vs Arizona (1)",
+      "predicted_winner": "Duke",
+      "actual_winner": "Michigan",
+      "actual_score": "69-63",
+      "correct": false,
+      "predicted_confidence_pct": 58,
+      "consensus_type": "split",
+      "upset_occurred": false,
+      "upset_predicted": false,
+      "structural_miss": true,
+      "structural_miss_reason": "Neither projected finalist made the championship game. Duke eliminated by UConn in Elite 8 (73-72, 0.4-second three). Arizona eliminated by Michigan in Final Four (91-73 blowout). Engine had no analysis for Michigan vs UConn.",
+      "agent_picks": {
+        "statistical": { "pick": "Arizona", "correct": false },
+        "matchup": { "pick": "Duke", "correct": false },
+        "recency": { "pick": "Arizona", "correct": false },
+        "historical": { "pick": "Duke", "correct": false }
+      }
+    }
+  ]
+}
